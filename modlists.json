@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/ScreenShot75.png",
       "readme": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/TempusMaledictumReadmeMain.md",
-      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum.wabbajack_d1da5e56-9763-4e3e-9ee8-c3cb0740cf33",
+      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum.wabbajack_7bfe8b16-58f3-4c2e-b1a6-41b742b1d0f6",
       "machineURL": "tempus_maledictum",
       "discordURL": "https://discord.gg/yABEjwB"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HMnQP6gPz6c=",
-      "Size": 1030187283,
+      "Hash": "frxwR/5w24A=",
+      "Size": 1030011671,
       "NumberOfArchives": 952,
       "SizeOfArchives": 83915853784,
-      "NumberOfInstalledFiles": 136492,
-      "SizeOfInstalledFiles": 129094700570
+      "NumberOfInstalledFiles": 136493,
+      "SizeOfInstalledFiles": 129092559531
     },
     "version": "1.0"
   }
