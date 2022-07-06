@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Tempus Maledictum",
+    "description": "This is a list I made for myself, primarily to play a lot of quest mods that I've missed out on over the years. The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. I would recommend playing as the Deep Elf Race, and choosing the Chronostasis alternate start for maximum immersionnnn. But do whatever you want, I'm not your real dad.",
+    "author": "Lively",
+    "maintainers": [
+      "github/LivelyDismay"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Unofficial",
+      "LotD",
+      "Timelost Dwemer"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/ScreenShot75.png",
+      "readme": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/TempusMaledictumReadmeMain.md",
+      "download": "https://authored-files.wabbajack.org/Tempus%20Maledictum.wabbajack_d1da5e56-9763-4e3e-9ee8-c3cb0740cf33",
+      "machineURL": "tempus_maledictum",
+      "discordURL": "https://discord.gg/yABEjwB"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "HMnQP6gPz6c=",
+      "Size": 1030187283,
+      "NumberOfArchives": 952,
+      "SizeOfArchives": 83915853784,
+      "NumberOfInstalledFiles": 136492,
+      "SizeOfInstalledFiles": 129094700570
+    },
+    "version": "1.0"
+  }
+]
