@@ -30,7 +30,7 @@ Once you choose your start, sleep in the bed to begin the game.
 
 You'll get a prompt for Religion once you step outside. Read through the options and choose whichever you like - or none at all. You can change your selection at any time via visiting shrines or reading certain books, so don't feel like you're locked into a singular option.
 
-I think that about covers it. Enjoy the game, I hope you have fun, and as always - don't forget to [read the FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md).
+I think that about covers it. Enjoy the game, I hope you have fun, and as always - don't forget to [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md).
 
 Need to contact me directly? [Find me on Discord](https://discord.gg/yABEjwB).
 
