@@ -2,26 +2,25 @@
 
 ---
 
-- [Tempus Maledictum](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#tempus-maledictum)
-- [Preamble](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#preamble)
-- [Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#installation)
-  - [Pre-Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#installing-microsoft-visual-c-redistributable-packages)
-      - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#visual-studio-2015-2017-2019-and-2022)
-      - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#visual-studio-2012-vc-110-update-4)
-    - [Steam Config](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#steam-config)
-      - [Disable the Steam Overlay](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#change-steams-update-behavior)
-    - [Set the Game language to English](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#set-the-game-language-to-english)
-    - [Clean Skyrim](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#clean-skyrim)
-  - [Using Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#using-wabbajack)
-    - [Preparations](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#preparations)
-      - [Problems with Wabbajack](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#problems-with-wabbajack)
-- [Post Installation](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#post-installation)
-- [Controller Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#controller-support)
-- [Ultrawide Support](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#ultrawide-support)
-- [FAQ](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#faq)
-- [Contact](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeLong.md#contact)
+- [Preamble](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#preamble)
+- [Installation](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#installation)
+  - [Pre-Installation](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#pre-installation)
+    - [Installing Microsoft Visual C++ Redistributable Package](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#installing-microsoft-visual-c-redistributable-packages)
+      - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#visual-studio-2015-2017-2019-and-2022)
+      - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#visual-studio-2012-vc-110-update-4)
+    - [Steam Config](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#steam-config)
+      - [Disable the Steam Overlay](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#disable-the-steam-overlay)
+    - [Change Steams Update Behavior](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#change-steams-update-behavior)
+    - [Set the Game language to English](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#set-the-game-language-to-english)
+    - [Clean Skyrim](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#clean-skyrim)
+  - [Using Wabbajack](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#using-wabbajack)
+    - [Preparations](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#preparations)
+      - [Problems with Wabbajack](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#problems-with-wabbajack)
+- [Post Installation](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#post-installation)
+- [Controller Support](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#controller-support)
+- [Ultrawide Support](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#ultrawide-support)
+- [FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#faq)
+- [Contact](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md#contact)
 
 ---
 
@@ -33,7 +32,7 @@
 
 This is a list I made for myself, primarily to play a lot of quest mods that I've missed out on over the years.
 
-Prefer to see a video on it? [No problem!](https://youtu.be/iWViHZ4_cYA )
+Prefer to see a video on it? [No problem!](https://youtu.be/iWViHZ4_cYA)
 
 The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. Personally I prefer the Boat to Solitude start to get a faster LotD start-up, but that's just me, do whatever you want, I'm not your real dad.
 
@@ -96,7 +95,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
+Grab the latest release of Wabbajack from [here](http://www.wabbajack.org/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Tempus Maledictum, and you will be forwarded to the next screen when it is finished.
 
@@ -143,7 +142,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Post Installation
 
-This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmePostInstall.md)
+This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/tempus-maledictum/blob/main/postinstall.md)
 
 ---
 
@@ -162,7 +161,7 @@ At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`.
 
 ## FAQ
 
-[I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeFAQ.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+[I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 
 ---
