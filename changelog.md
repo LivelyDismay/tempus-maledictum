@@ -1,8 +1,29 @@
 WIP
 
+<details>  
+ 
+ **ADDED**  
+ 
+ Ulvenweld - No Berries on Wigfrid09's Reach trees  
+ Venerable Nordic Temples (2K - 4K)  
+ Skyland Blacksmith Texture Overhaul  
+ Leather Armors Retexture SE  
+ 
+ **REMOVED**  
+ 
+ ElSopa - HD Grindstone Redone SE  
+ ElSopa - HD Grindstone Redone - Improved Sparks 10x  
+ 
+ **UPDATED**  
+ 
+ Better Chests  
+ 
+
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
 Made some patches for CRAFT.  
+ </details
+
 
 ---
 
