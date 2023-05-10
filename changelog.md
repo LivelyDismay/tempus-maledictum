@@ -8,6 +8,15 @@ WIP
  Venerable Nordic Temples (2K - 4K)  
  Skyland Blacksmith Texture Overhaul  
  Leather Armors Retexture SE  
+ Unreal 4K-8K Mammoth Skeleton ReTexture  
+ 4K Tusks  
+ Spriggans SE  
+ Iconic's Spiders of Skyrim  
+ Giant Hanging Bones Retexture  
+ Temple of Kynareth Mosaic Retexture - 4K - 2K  
+ Skyland Alchemy and Enchanting Tables  
+ Skyland Animated Mead and Ale Bottles  
+ Skyrim Objects SMIMed - Noble Furniture  
  
  **REMOVED**  
  
