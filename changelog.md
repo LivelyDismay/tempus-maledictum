@@ -17,7 +17,22 @@ WIP
  Skyland Alchemy and Enchanting Tables  
  Skyland Animated Mead and Ale Bottles  
  Skyrim Objects SMIMed - Noble Furniture  
- 
+ ElSopa - Potions Redone - My Patches SE by Xtudo- LotD, CC Adventurer's Backpack, Praedy's Soul Husk Extract  
+ Sleeping Tree Sap - My Version by Xtudo - ENB  
+ Blood Potion - My Version by Xtudo - ENB  
+ Ancient Nord Armors and Weapons Retexture  
+ SMIM Raddits Shell Textured - Real Rabbiits HD Version  
+ No Grassias Extended  
+ Falmer Armors and Weapons Retexture  
+ Better Ropes SSE  
+ Nordic Stonewalls  
+ A Canticle Tree  
+ Skyland Animated Mead and Ale Bottles  
+ Skyland Alchemy and Enchanting Tables  
+ Temple of Kynareth Mosaic Retexture  
+ Vaermina's Torpor - My Version by Xtudo - Purple Version, Deadly Fear Poison  
+ Sound Fix for Large Sector Drives  
+  
  **REMOVED**  
  
  ElSopa - HD Grindstone Redone SE  
@@ -26,11 +41,17 @@ WIP
  **UPDATED**  
  
  Better Chests  
- 
+ Owlessa's Custom Control Map Config  
+ Custom Skills - Vigilant  
+ Icy Mesh Remaster  
 
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
 Made some patches for CRAFT.  
+Fixed floating staffs in Shalidor's Maze.  
+Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I don't remember where. Somewhere in Old Hroldan or something.  
+Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
+
  </details
 
 ---
