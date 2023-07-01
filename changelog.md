@@ -67,6 +67,7 @@ WIP
  Strongholds - Narzulbur  
  Strongholds - Largashbur  
  Juniper's Dawnstar Sanctuary  
+ Sure of Stealing  
   
  **REMOVED**  
  
