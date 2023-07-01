@@ -132,7 +132,7 @@ WIP
  Survival Mode Improved - SKSE  
  Unofficial Skyrim Modder's Patch - USMP SE  
  
-Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.
+Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
 Made some patches for CRAFT.  
