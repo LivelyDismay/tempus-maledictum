@@ -68,6 +68,18 @@ WIP
  Strongholds - Largashbur  
  Juniper's Dawnstar Sanctuary  
  Sure of Stealing  
+ Lawless - A Bandit Overhaul  
+ Notification Log SSE NG  
+ RemoveAllItems Freeze Fix  
+ Instantly Skip Dialogue NG  
+ Hide Those Futile Quests SE  
+ GLENMORIL SE  
+ Glenmoril Boss TDM patch  
+ Animated Armoury Glenmoril Patch  
+ Custom Skills - GLENMORIL  
+ Custom Skills - GLENMORIL - English Translation  
+ Glenmoril - Delayed Start  
+ Glenmoril Armors and Weapons Retexture SE  
   
  **REMOVED**  
  
@@ -85,6 +97,11 @@ WIP
  No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies  
  Completionist - Skyrim Completion Tracker (SE-AE)  
  CC Gray Cowl Returns - Thief Delay  
+ Rudy HQ - More Lights for ENB SE - Bthardamz  
+ Rudy HQ - More Lights for ENB SE - Deathbell  
+ Rudy HQ - More Lights for ENB SE - Soul Gems  
+ Iconic's Ysgramor Shield Retexture  
+ SMIM Upper Furniture And Other Fixes  
  
  **UPDATED**  
  
