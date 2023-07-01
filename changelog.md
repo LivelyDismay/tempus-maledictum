@@ -80,6 +80,10 @@ WIP
  Custom Skills - GLENMORIL - English Translation  
  Glenmoril - Delayed Start  
  Glenmoril Armors and Weapons Retexture SE  
+ High Poly NPCs  
+ Real Clouds SSE  
+ Vigilant - Shadowfoot Sanctum Patch  
+ Vigilant - NPC Overhaul  
   
  **REMOVED**  
  
@@ -128,7 +132,7 @@ WIP
  Survival Mode Improved - SKSE  
  Unofficial Skyrim Modder's Patch - USMP SE  
  
-
+Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
 Made some patches for CRAFT.  
@@ -137,7 +141,7 @@ Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I d
 Really just a whole bunch of fixes with out-of-bounds and clipping collectibles and displays. I did a lot of them on stream, you can look it up ~~because I don't remember all of them.~~  
 Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
 
-To Do for Lively: rerun bodyslide output, all lod stuff, easynpc
+To Do for Lively: rerun bodyslide output, all lod stuff, easynpc, and change the damn readme links on compile
 
  </details
 
