@@ -81,9 +81,10 @@ WIP
  Glenmoril - Delayed Start  
  Glenmoril Armors and Weapons Retexture SE  
  High Poly NPCs  
- Real Clouds SSE  
+ Dual Casting Fix   
  Vigilant - Shadowfoot Sanctum Patch  
  Vigilant - NPC Overhaul  
+ Xelzaz - Custom Fully Voiced Argonian Telvanni Follower  
   
  **REMOVED**  
  
@@ -106,6 +107,7 @@ WIP
  Rudy HQ - More Lights for ENB SE - Soul Gems  
  Iconic's Ysgramor Shield Retexture  
  SMIM Upper Furniture And Other Fixes  
+ Shadow of Skyrim - Nemesis and Alternative Death System  
  
  **UPDATED**  
  
@@ -131,6 +133,8 @@ WIP
  Unofficial Skyrim Creation Club Content Patch  
  Survival Mode Improved - SKSE  
  Unofficial Skyrim Modder's Patch - USMP SE  
+ DynDOLOD Resources SE  
+ Dyndolod 3 Alpha  
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
