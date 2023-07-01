@@ -73,7 +73,7 @@ WIP
  ElSopa - HD Grindstone Redone SE  
  ElSopa - HD Grindstone Redone - Improved Sparks 10x  
  Jebbalon's Lava Column Correction - Aetherium Forge  
- Drawven Set - Resurgence  
+ Dwarven Set - Resurgence  
  Skyrim Remastered - Glaciers and Ice  
  Realistic HD Baskets Remastered  
  Survival Mode Improved - Wyrmstooth Region Patch  
