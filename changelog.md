@@ -32,11 +32,58 @@ WIP
  Temple of Kynareth Mosaic Retexture  
  Vaermina's Torpor - My Version by Xtudo - Purple Version, Deadly Fear Poison  
  Sound Fix for Large Sector Drives  
+ Dwemer Armors and Weapons Retexture SE  
+ Iconic's Gargoyle and Death Hound Retexture  
+ Dark Brotherhood Sanctuary Decor - Remastered Vanilla Door  
+ The Gray Cowl of Nocturnal SSE - HD pack  
+ The Gray Cowl of Nocturnal SE - Retexture  
+ Praedy's repository - SE  
+ Hot Lava - Heat Distortion - PraedythXVI  
+ Alchemy Station Variants - Base Object Swapper  
+ Higher Quality Shadowmarks  
+ Desaturated HD Unique Hand Made Signs Overhaul By ShibePatrol  
+ WiZkiD Signs  
+ WiZkiD Specific Signs  
+ Upgraded Silverware for Distinct Interiors  
+ Rudy HQ - Miscellaneous SE  
+ Peltapalooza - Complex Parallax Occlusion  
+ Fluffy Beds and Bedrolls  
+ Dark Brotherhood Armors Retexture SE  
+ JS Purses and Septims SE  
+ Basic Dining Set Replacer  
+ Chitin Armors Retexture SE  
+ JS Knapsacks SE  
+ Diverse Candles STAC - Base Object Swapper  
+ Creation Club Basket Distribution  
+ Bruma Outfits for Skyrim Imperials (SPID)  
+ Beyond Skyrim - Bruma Upscaled Textures (BSBUT)  
+ Immersive Vampire Clutter - LITE  
+ Myrwatch Clutter for College of Winterhold (BOS)  
+ Dwarven Mail Outfits for Dwemer Enthusiasts (LOTD)  
+ Vigil Enforcer Armors for Vigilants of Stendarr (SPID)  
+ Civil War Champions Outfits for Officers (SPID)  
+ Dead Man's Dread Outfits for Pirates and Sailors (SPID)  
+ Dunmeri Outfits for Skyrim Dunmers (SPID)  
+ Strongholds - Narzulbur  
+ Strongholds - Largashbur  
+ Juniper's Dawnstar Sanctuary  
   
  **REMOVED**  
  
  ElSopa - HD Grindstone Redone SE  
  ElSopa - HD Grindstone Redone - Improved Sparks 10x  
+ Jebbalon's Lava Column Correction - Aetherium Forge  
+ Drawven Set - Resurgence  
+ Skyrim Remastered - Glaciers and Ice  
+ Realistic HD Baskets Remastered  
+ Survival Mode Improved - Wyrmstooth Region Patch  
+ Motionless Rocks Killing People Fix  
+ CritterSpawn Congestion Fix  
+ High Gate Ruins Puzzle Reset Fix  
+ Tavern AI fix  
+ No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies  
+ Completionist - Skyrim Completion Tracker (SE-AE)  
+ CC Gray Cowl Returns - Thief Delay  
  
  **UPDATED**  
  
@@ -44,6 +91,25 @@ WIP
  Owlessa's Custom Control Map Config  
  Custom Skills - Vigilant  
  Icy Mesh Remaster  
+ Iconic Statues  
+ Wolf Armor and Weapons Retexture SE  
+ Glass Armors and Weapons Retexture SE  
+ Blades Armors and Weapons Retexture SE  
+ Elven Armors and Weapons Retexture SE  
+ Imperial Armors and Weapons Retexture SE  
+ Steel Armors and Weapons Retexture SE  
+ Iron Armors and Weapons Retexture SE  
+ Orcish Armors and Weapons Retexture SE  
+ Daedric Armors and Weapons Retexture SE  
+ Ebony Armors and Weapons Retexture SE  
+ PAPER  
+ Keyword Item Distributor (KID)  
+ FormList Manipulator - FLM  
+ Behavior Data Injector Universal Support  
+ Unofficial Skyrim Creation Club Content Patch  
+ Survival Mode Improved - SKSE  
+ Unofficial Skyrim Modder's Patch - USMP SE  
+ 
 
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
@@ -51,6 +117,8 @@ Made some patches for CRAFT.
 Fixed floating staffs in Shalidor's Maze.  
 Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I don't remember where. Somewhere in Old Hroldan or something.  
 Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
+
+To Do for Lively: rerun bodyslide output, all lod stuff, easynpc
 
  </details
 
