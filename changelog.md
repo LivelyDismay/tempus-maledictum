@@ -116,6 +116,7 @@ Removed bow & arrows from Daenlit (Wyrmstooth).
 Made some patches for CRAFT.  
 Fixed floating staffs in Shalidor's Maze.  
 Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I don't remember where. Somewhere in Old Hroldan or something.  
+Really just a whole bunch of fixes with out-of-bounds and clipping collectibles and displays. I did a lot of them on stream, you can look it up ~~because I don't remember all of them.~~  
 Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
 
 To Do for Lively: rerun bodyslide output, all lod stuff, easynpc
