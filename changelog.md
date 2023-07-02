@@ -85,6 +85,24 @@ WIP
  Vigilant - Shadowfoot Sanctum Patch  
  Vigilant - NPC Overhaul  
  Xelzaz - Custom Fully Voiced Argonian Telvanni Follower  
+ Simplicity of Seeding - Better Hearthfires and Farming CC Planter Scripts  
+ Casting Bar  
+ Object Categorization Framework  
+ Dear Diary Dark Mode (white text)  
+ Camera Persistence Fixes  
+ Stats of Stealing  
+ I'm Talkin' Here  
+ A Dog's Life  
+ Favor Jobs Overhaul  
+ Dear Diary Dark Mode  
+ Object Categorization Framework  
+ Casting Bar  
+ Untarnished UI  
+ The Handy Icon Collection Collective  
+ Extended UI  
+ B.O.O.B.I.E.S (aka Immersive Icons)  
+ I4 - SkyUI Weapons Pack  
+ SkyUI AIO Survival (SAS)  
   
  **REMOVED**  
  
@@ -108,6 +126,12 @@ WIP
  Iconic's Ysgramor Shield Retexture  
  SMIM Upper Furniture And Other Fixes  
  Shadow of Skyrim - Nemesis and Alternative Death System  
+ No More Laser-Printed Book  
+ Better MessageBox Controls  
+ Convenient Dialogue UI - SE  
+ Remove QuickSave Button from SkyUI System Menu  
+ Wider MCM Menu for SkyUI  
+ Smaller Vanilla Cursors  
  
  **UPDATED**  
  
@@ -135,6 +159,15 @@ WIP
  Unofficial Skyrim Modder's Patch - USMP SE  
  DynDOLOD Resources SE  
  Dyndolod 3 Alpha  
+ Dual Wield Parrying SKSE  
+ Skyrim Landscape and Water Fixes  
+ Legacy of The Dragonborn Perk Menus  
+ Immersive Armors Retexture and Mesh Fixes SE  
+ Remiel-Custom Voiced Dwemer Specialist and Companion  
+ Vigilant SE  
+ Vigilant Voiced English Addon  
+ Aura's Inventory Tweaks  
+ 
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
