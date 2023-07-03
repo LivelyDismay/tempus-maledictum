@@ -103,6 +103,39 @@ WIP
  B.O.O.B.I.E.S (aka Immersive Icons)  
  I4 - SkyUI Weapons Pack  
  SkyUI AIO Survival (SAS)  
+ Jug of Milk HD by iimlenny - My version SE  
+ Windhelm Brazier - Vanilla Plus (High-ish Poly) Replacer  
+ Bonemold Armors and Weapons Retexture SE  
+ Precision Creatures  
+ Smooth Moveset - Animated armoury Grip position fix  
+ Smooth Moveset - Skyrim Spear Mechanic Grip position fix  
+ Optimised Scripts for Enhanced Blood Textures - SPID version  
+ Optimised Scripts for Ordinator  
+ Optimised Scripts for Apocalypse-Ordinator Patch  
+ Optimised Scripts for Summermyst  
+ Smooth Random Jump Animation - Rework  
+ Smooth Weapon Jump Animation  
+ Stagger Direction Fix - SSE  
+ Stagger Direction Fix - NG  
+ Stoppage of Staggerlock  
+ Conditional Dog Barking (DAR)  
+ Conditional tavern cheering (DAR)  
+ Gesture Animation Remix (DAR)  
+ Gesture Animation Remix (DAR) - shield patch  
+ Immersive folded hands (DAR)  
+ Immersive folded hands (DAR) - Vanilla shield position patch  
+ Lively cart driver animation replacer - SE or AE  
+ NPC Animation Remix (DAR)  
+ NPC Animation Remix (DAR) - Vanilla shield position patch  
+ Animated Mounted Casting - Cast Spells On Horseback And Dismiss Horse  
+ Axarien's Animations - The Companions - Vilkas Farkas Aela  
+ VioLens Compatibility Extension  
+ Open Animation Replacer  
+ Nemesis Creature Behaivour - WereWolf Addon  
+ Look Around - Searching Animations For NPCs  
+ Pristine Vanilla Movement  
+ Pristine Vanilla Movement - No Camera Shake  
+ Unique Animations Reworked  
   
  **REMOVED**  
  
@@ -132,6 +165,13 @@ WIP
  Remove QuickSave Button from SkyUI System Menu  
  Wider MCM Menu for SkyUI  
  Smaller Vanilla Cursors  
+ Attack Speed Framework  
+ Smooth Magic Casting Animation  
+ SpellSword Moveset  
+ (SGC) Scriptfree Behavior Staggerlock - SBS  
+ Ultimate Spinning Arrows SE  
+ DART - Dynamic Animation Replacer Tool (beta)  
+ Dynamic Animation Replacer   
  
  **UPDATED**  
  
@@ -167,7 +207,29 @@ WIP
  Vigilant SE  
  Vigilant Voiced English Addon  
  Aura's Inventory Tweaks  
- 
+ Nemesis Creatures BEHAVIOUR compatibility  
+ Sprint Sneak Movement Speed Fix  
+ Keyword Compatibility Framework  
+ Smooth Moveset  
+ Dynamic Dodge Animation  
+ Swor's Valhalla Combat KillCam Patches  
+ Valhalla Combat Execution Compatibility patches  
+ Animation in blizzard  
+ Animation in Ashstorm  
+ Payload Interpreter  
+ Valvalis Combat - Visceral Tactics  
+ Dynamic Random Spell Idle - Player and teammate  
+ Conditional Armor Type Animations  
+ CATA Addon - Goetia female idle Walk Run  
+ CATA Addon - Goetia male idle Walk Run  
+ CATA Addon - Goetia Animations Sprint  
+ CATA Addon - Leviathan II Female Idle Walk Run  
+ CATA Addon - Leviathan II Male Idle Walk Run  
+ CATA Addon - Leviathan Animations II Sprint  
+ CATA Addon - Vanargand Female idle Walk Run  
+ CATA Addon - Vanargand male idle walk run  
+ CATA Addon - Vanargand Animations Sprint  
+ Embers XD  
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
