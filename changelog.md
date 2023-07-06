@@ -76,8 +76,6 @@ WIP
  GLENMORIL SE  
  Glenmoril Boss TDM patch  
  Animated Armoury Glenmoril Patch  
- Custom Skills - GLENMORIL  
- Custom Skills - GLENMORIL - English Translation  
  Glenmoril - Delayed Start  
  Glenmoril Armors and Weapons Retexture SE  
  High Poly NPCs  
@@ -136,6 +134,9 @@ WIP
  Pristine Vanilla Movement  
  Pristine Vanilla Movement - No Camera Shake  
  Unique Animations Reworked  
+ Photo Mode  
+ Survival Control Panel  
+ Font Overhaul - Books and Notes Only  
   
  **REMOVED**  
  
@@ -172,6 +173,9 @@ WIP
  Ultimate Spinning Arrows SE  
  DART - Dynamic Animation Replacer Tool (beta)  
  Dynamic Animation Replacer   
+ Map Flip For Beyond Reach  
+ Phenderix Elements  
+ Diversity - A Character Overhaul  
  
  **UPDATED**  
  
@@ -230,6 +234,9 @@ WIP
  CATA Addon - Vanargand male idle walk run  
  CATA Addon - Vanargand Animations Sprint  
  Embers XD  
+ CoMAP  
+ Creation Club Open Helmets  
+ 
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
