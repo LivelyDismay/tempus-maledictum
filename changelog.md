@@ -137,6 +137,9 @@ WIP
  Photo Mode  
  Survival Control Panel  
  Font Overhaul - Books and Notes Only  
+ My Road Signs are Beautiful - English  
+ Strongholds - Dushnikh Yal  
+ Strongholds - Mor Khazgur  
   
  **REMOVED**  
  
@@ -176,6 +179,7 @@ WIP
  Map Flip For Beyond Reach  
  Phenderix Elements  
  Diversity - A Character Overhaul  
+ The Streets of Whiterun in HD  
  
  **UPDATED**  
  
@@ -236,6 +240,9 @@ WIP
  Embers XD  
  CoMAP  
  Creation Club Open Helmets  
+ Custom Skills Merged  
+ Custom Skills Menu - A Custom Skills Framework Unified Menu  
+ Higher Poly Vanilla Cave Lamps  
  
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
