@@ -140,6 +140,12 @@ WIP
  My Road Signs are Beautiful - English  
  Strongholds - Dushnikh Yal  
  Strongholds - Mor Khazgur  
+ CC's Camping Expansion  
+ Survival Mode Patch Collection - Cloaks of Skyrim  
+ Realms of Oblivion  
+ Inigo AE Survival Mode Food Overhaul  
+ Wintersun - Survival Mode Patch  
+ hakaspi's Survival Mode Patch - LotD  
   
  **REMOVED**  
  
@@ -243,7 +249,7 @@ WIP
  Custom Skills Merged  
  Custom Skills Menu - A Custom Skills Framework Unified Menu  
  Higher Poly Vanilla Cave Lamps  
- 
+ Water for ENB  
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
