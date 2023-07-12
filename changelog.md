@@ -146,6 +146,11 @@ WIP
  Inigo AE Survival Mode Food Overhaul  
  Wintersun - Survival Mode Patch  
  hakaspi's Survival Mode Patch - LotD  
+ Ancient Falmer Armors and Weapons Retexture SE  
+ Mythic Dawn armor SE  
+ Mythic Dawn Armor SE - My patches and fixes  
+ Mythic Dawn Armor - SPID  
+ Skyland Bits and Bobs - A Clutter Overhaul  
   
  **REMOVED**  
  
@@ -186,6 +191,7 @@ WIP
  Phenderix Elements  
  Diversity - A Character Overhaul  
  The Streets of Whiterun in HD  
+ Controller-mapping Unbound  
  
  **UPDATED**  
  
@@ -250,6 +256,23 @@ WIP
  Custom Skills Menu - A Custom Skills Framework Unified Menu  
  Higher Poly Vanilla Cave Lamps  
  Water for ENB  
+ Spell Perk Item Distributor (SPID)  
+ Papyrus Ini Manipulator  
+ ConsolePlusPlus  
+ Rain Extinguishes Fires  
+ Unofficial Skyrim Special Edition Patch  
+ Particle Patch for ENB  
+ Creation Club Open Helmets  
+ Curated Bosses for True HUD  
+ Wintersun - Zim's Immersive Artifacts Patch  
+ Paarthurnax - Quest Expansion  
+ Harvest Your Blood for Septimus  
+ Creation Club Farming - Tweaks Enhancements and Quest Expansion  
+ Song of the Green (Auri Follower)  
+ Song of the Green (Auri Follower) - Kaiden Banter Patch  
+ Janquel's Arguably Needed Quixotically Unifying ESP Library  
+ Simply Order Summons  
+ Expressive Remiel  
  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
