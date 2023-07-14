@@ -192,6 +192,7 @@ WIP
  Diversity - A Character Overhaul  
  The Streets of Whiterun in HD  
  Controller-mapping Unbound  
+ Weapons of the Third Era SSE  
  
  **UPDATED**  
  
