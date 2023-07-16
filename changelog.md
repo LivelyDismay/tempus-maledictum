@@ -151,6 +151,7 @@ WIP
  Mythic Dawn Armor SE - My patches and fixes  
  Mythic Dawn Armor - SPID  
  Skyland Bits and Bobs - A Clutter Overhaul  
+ Cities of the North Optimized Meshes  
   
  **REMOVED**  
  
@@ -193,6 +194,9 @@ WIP
  The Streets of Whiterun in HD  
  Controller-mapping Unbound  
  Weapons of the Third Era SSE  
+ Simplicity of Snow - Cities of The North  
+ Cities of the North - Dawnstar - Partitioned Meshes for Lighting  
+ Cities of the North - Morthal - Partitioned Meshes for Lighting  
  
  **UPDATED**  
  
