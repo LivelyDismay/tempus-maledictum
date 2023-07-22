@@ -22,7 +22,7 @@ WIP
  Blood Potion - My Version by Xtudo - ENB  
  Ancient Nord Armors and Weapons Retexture  
  SMIM Raddits Shell Textured - Real Rabbiits HD Version  
- No Grassias Extended  
+ No Grassias  
  Falmer Armors and Weapons Retexture  
  Better Ropes SSE  
  Nordic Stonewalls  
@@ -153,6 +153,19 @@ WIP
  Skyland Bits and Bobs - A Clutter Overhaul  
  Cities of the North Optimized Meshes  
  Overlooked Dungeon Objects Retextures  
+ Stalhrim Armors and Weapons Retexture SE  
+ Owls Patching Nest - Valhalla Combat - More Race Compatibility Patches  
+ Kaputt - Melee Killmove Manager  
+ Valhalla Combat - Race Addons  
+ The Heart of Dibella - Quest Expansion  
+ House of Horrors Quest Expansion - Wintersun Patch  
+ Caught Red Handed - Quest Expansion  
+ The Only Cure - Quest Expansion  
+ The Only Cure Quest Expansion - Wintersun Patch  
+ The Whispering Door - Quest Expansion  
+ The Innocence Lost - Quest Expansion  
+ Search and Seizure - Quest Expansion  
+ Improved Camera SE  
   
  **REMOVED**  
  
@@ -256,7 +269,6 @@ WIP
  CATA Addon - Vanargand male idle walk run  
  CATA Addon - Vanargand Animations Sprint  
  Embers XD  
- CoMAP  
  Creation Club Open Helmets  
  Custom Skills Merged  
  Custom Skills Menu - A Custom Skills Framework Unified Menu  
@@ -280,6 +292,7 @@ WIP
  Simply Order Summons  
  Expressive Remiel  
  
+Added Optional INI Override section for users to easily find commonly edited ini files from mods.  
 Downgraded Intuitive Dragon Ride Control (SE) from v3.0.0 to v2.0.0.  
 Adjusted Aetherial Dwemervamidium temper recipe to require 25 dwarven ingots instead of 1.  
 Removed bow & arrows from Daenlit (Wyrmstooth).  
