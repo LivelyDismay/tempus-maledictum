@@ -167,6 +167,16 @@ WIP
  Search and Seizure - Quest Expansion  
  Improved Camera SE  
  4K Atronach Forge  
+ DPI Scaling Fix  
+ Lively's Patches for Remiel and her Add-Ons  
+ Lively's Patches for Blackthorn and Tree Mods  
+ Lively's Moved Carriage for Beyond Reach and Markarth Entrance Overhauls  
+ Lively's Patch for CotN Dawnstar and Thunderchild  
+ Lively's Patch for Icy Windhelm and City Entrance Overhaul Windhelm  
+ Lively's Synergy Patch for Tools of Kagrenac and Aetherium Armor and Weapons  
+ Lively's Formlist Manipulator INI for Transcribe Spells  
+ Lively's Formlist Manipulator INI for Shadow of Skyrim  
+ Lively's Patches for Cheesemod for EVERYONE  
   
  **REMOVED**  
  
