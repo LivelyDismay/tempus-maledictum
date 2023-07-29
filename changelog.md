@@ -318,8 +318,6 @@ Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I d
 Really just a whole bunch of fixes with out-of-bounds and clipping collectibles and displays. I did a lot of them on stream, you can look it up ~~because I don't remember all of them.~~  
 Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
 
-To Do for Lively: rerun bodyslide output, all lod stuff, easynpc, and change the damn readme links on compile
-
  </details
 
 ---
