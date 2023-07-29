@@ -1,4 +1,8 @@
-WIP
+2023/07/29
+
+Version 6.0.0
+
+**New save required.**
 
 <details>  
  
@@ -177,6 +181,7 @@ WIP
  Lively's Formlist Manipulator INI for Transcribe Spells  
  Lively's Formlist Manipulator INI for Shadow of Skyrim  
  Lively's Patches for Cheesemod for EVERYONE  
+ Vampire Armors and Weapons Retexture  
   
  **REMOVED**  
  
