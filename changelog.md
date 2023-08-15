@@ -1,3 +1,18 @@
+WIP
+
+Version 6.1.0
+
+Removed Difficulty Balance
+
+Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Balance.  
+Fixed QuickLoot icons.  
+Created new Synthesis Override plugin.  
+Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
+
+This is flagged as a "new save" update in accordance with semantic versioning due to the SPID change listed above. This does not *technically* require a new save, but the change won't take effect properly on an ongoing save. If you don't want to start a new game, you will most likely have to console command yourself the Ebony Mail at some point.  
+
+---
+
 2023/07/29
 
 Version 6.0.0
