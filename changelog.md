@@ -1,8 +1,10 @@
-WIP
+2023/08/30
 
 Version 6.1.0  
 
-New save required.  
+**New save required.**  
+
+<details>  
 
 **ADDED**
 
@@ -50,6 +52,8 @@ Show Player In Menus
 Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Balance.  
 Fixed QuickLoot icons.  
 Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
+
+</details>
 
 ---
 
@@ -373,7 +377,7 @@ Fixed unobtainable cheese and misaligned wall in some random Miner's Hut and I d
 Really just a whole bunch of fixes with out-of-bounds and clipping collectibles and displays. I did a lot of them on stream, you can look it up ~~because I don't remember all of them.~~  
 Probably a bunch of other fixes. It's been a while. I'm old. My memory sucks.  
 
- </details
+ </details>
 
 ---
  
