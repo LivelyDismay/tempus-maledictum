@@ -49,7 +49,6 @@ Show Player In Menus
 
 Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Balance.  
 Fixed QuickLoot icons.  
-Created new Synthesis Override plugin.  
 Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
 
 ---
