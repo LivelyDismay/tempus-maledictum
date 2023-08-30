@@ -1,15 +1,56 @@
 WIP
 
-Version 6.1.0
+Version 6.1.0  
 
-Removed Difficulty Balance
+New save required.  
+
+**ADDED**
+
+Polar Peaks - 16K - Parallax  
+Guards and Stormcloaks Armors Retexture SE  
+KG's Vanilla-esque Farmhouse Walls with Parallax  
+KG's Farmhouse Walls - Dave's Polar Peaks Recolor  
+tanningrack001  
+Various Immersive Tanning Racks  
+Sepolcri - A Complete Burial Sites Overhaul  
+Less Shiny Bloody Bones - Skeleton Replacer HD  
+Hendraheim - Creation Club Patches - SMIM  
+Drengin's Blue Palace - Mesh Only Replacer  
+Solitude and Temple Frescoes 2019  
+Solitude Temple Frescoes 2019 - eye cubemap patch  
+HD Textures for Solitude and Temple Frescoes  
+Thieves Guild Armors Retexture SE  
+Animated Armoury - Precision Whips Patch  
+Darkend - CoMAP  
+Madmen - A Forsworn Overhaul  
+
+**UPDATED**  
+
+Clockwork - Particle Lights for ENB Addon  
+Kaidan - Extended Edition  
+Beyond Skyrim - Bruma - Growable Plants Patch  
+Unslaad SE  
+UNSLAAD Voiced - English Addon  
+Object Categorization Framework  
+B.O.O.B.I.E.S (aka Immersive Icons)  
+Aura's Inventory Tweaks  
+Font Overhaul  
+Lawless - A Bandit Overhaul  
+FormList Manipulator - FLM  
+RaceCompatibility with fixes for SSE  
+The Timelost Dwemer - A Deep Elf Race SE  
+
+**REMOVED**  
+
+Difficulty Balance  
+Stone Wall 4k retexture  
+Solitude and Temple Frescoes - Cleaned and Upscaled  
+Show Player In Menus  
 
 Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Balance.  
 Fixed QuickLoot icons.  
 Created new Synthesis Override plugin.  
 Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
-
-This is flagged as a "new save" update in accordance with semantic versioning due to the SPID change listed above. This does not *technically* require a new save, but the change won't take effect properly on an ongoing save. If you don't want to start a new game, you will most likely have to console command yourself the Ebony Mail at some point.  
 
 ---
 
