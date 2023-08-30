@@ -1,5 +1,35 @@
 2023/08/30
 
+Version 6.1.3
+
+*This isn't getting old at all, right guys?*  
+
+Removed Owl's Font Config Tweaks.  
+
+---
+
+2023/08/30
+
+Version 6.1.2
+
+Fixed KaidanMod download (removed extra file in my downloads folder so the compile for WJ won't pick it up anymore).  
+Fixed Synthesis/EasyNPC interaction rendering some player character presets with an invisible head part.  
+
+---
+
+2023/08/30
+
+Version 6.1.1
+
+Fixed some Loot/load order stuff.  
+Updated Tempus version header in MO2.  
+
+Yes, that's it.  
+
+---
+
+2023/08/30
+
 Version 6.1.0  
 
 **New save required.**  
