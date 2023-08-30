@@ -25,6 +25,7 @@ Thieves Guild Armors Retexture SE
 Animated Armoury - Precision Whips Patch  
 Darkend - CoMAP  
 Madmen - A Forsworn Overhaul  
+Gozer's Patch for Delayed Missing in Action  
 
 **UPDATED**  
 
