@@ -53,6 +53,9 @@ Show Player In Menus
 Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Balance.  
 Fixed QuickLoot icons.  
 Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
+New EasyNPC output.  
+New Synthesis output.  
+  - No longer using Weapon Speed Fix or that Landscape Vertex patcher thingy.  
 
  </details>
 
