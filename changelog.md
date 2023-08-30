@@ -4,7 +4,7 @@ Version 6.1.0
 
 **New save required.**  
 
-<details>  
+ <details>
 
 **ADDED**
 
@@ -53,7 +53,7 @@ Changed Scrambled Bugs' ini settings to account for the removal of Difficulty Ba
 Fixed QuickLoot icons.  
 Removed DA02Champion from Dunmeri Outfits for Skyim Dunmers (SPID).  
 
-</details>
+ </details>
 
 ---
 
