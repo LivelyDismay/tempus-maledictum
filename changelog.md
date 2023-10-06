@@ -1,3 +1,13 @@
+2023/10/06
+
+Version 6.1.4
+
+Fixed Ordinator Recycling Handy Crafting interaction.  
+Fixed invisible werewolves again. For the last time. 
+ - I only tested on Sinding because he's the fastest one to test werewolf stuff on, so let me know if someone else doesn't have the fix applied. But it should be universal.
+
+---
+
 2023/08/30
 
 Version 6.1.3
