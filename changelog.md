@@ -1,3 +1,11 @@
+2023/10/11
+
+Version 6.1.5
+
+Made Glenmoril ammo only craftable after starting the Glenmoril quest.
+
+---
+
 2023/10/06
 
 Version 6.1.4
