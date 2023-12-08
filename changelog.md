@@ -1,3 +1,11 @@
+2023/12/07
+
+Version 6.2.0
+
+Recompiled to make the list installable again.
+
+---
+
 2023/10/11
 
 Version 6.1.5
