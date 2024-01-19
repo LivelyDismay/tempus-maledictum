@@ -1,3 +1,11 @@
+2024/01/19
+
+Version 6.3.0
+
+Recompiled to make the list installable again. Thank you to the Wabbajack devs for the app update that made this possible.
+
+---
+
 2023/12/07
 
 Version 6.2.0
