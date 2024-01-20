@@ -1,5 +1,22 @@
 2024/01/19
 
+Version 6.3.1
+
+**REMOVED**
+
+Ancient Dwemer Metal - My patches - JS Attunement Sphere and Lexicons SE  
+Ancient Dwemer Metal - My patches - JS Dwarven Oil SE  
+Ancient Dwemer Metal - My patches - JS Dwemer Artifacts SE  
+Ancient Dwemer Metal - My patches - JS Dwemer Control Cube  
+Ancient Dwemer Metal - My patches - JS Dwemer Ichor Barrels SE  
+Ancient Dwemer Metal - My patches - JS Dwemer Kitchenware SE  
+Ancient Dwemer Metal - My patches - JS Dwemer Puzzle Cube SE  
+Ancient Dwemer Metal - My patches - JS Essence Extractor SE  
+
+---
+
+2024/01/19
+
 Version 6.3.0
 
 Recompiled to make the list installable again. Thank you to the Wabbajack devs for the app update that made this possible.
