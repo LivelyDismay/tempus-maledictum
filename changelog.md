@@ -1,3 +1,12 @@
+2024/01/20
+
+Version 6.3.2
+
+Replaced Curios creation with the other Curios creation.  
+Minor mod order adjustment because filming an episode of One Minute Modding seems to be the worst thing I've ever done in my life.  
+
+---
+
 2024/01/19
 
 Version 6.3.1
