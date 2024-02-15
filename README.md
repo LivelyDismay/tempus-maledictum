@@ -155,7 +155,26 @@ If you already started your save prior to enabling this mod: exit the game, enab
 
 ## Ultrawide Support
 
-At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`. Enable all mods in this section prior to launching SKSE through MO2 and playing your game.  
+At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`. Enable all mods in this section prior to launching SKSE through MO2 and playing your game. This method may not work for some there is an alternative. 
+
+Optional if first method doesn't work. At the bottom of MO2, there is a separator named `Optional - Ultrawide Support` delete all mods in the separator ONLY THE ULTRAWIDE MODS. Then you will need to download the main file https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files 
+In the Downloads section in the top right under Run scroll all the way down right click the file you just downloaded and click install. You will be given a prompt select the aspect ratio for your ultrawide screen; after click next and select Yes for SKYUI and race menu; again click next. 
+Now you will be given 13 options the order will be the same. 
+Options 1-4 choose yes
+Option 5 choose SkyUI Weapons Pack SE - Frostfall Compatibility Patch
+Option 6 choose Even Wider Rescaled MCM Menu for SkyUI (Seemed to look the best but honestly any should work, none of the other options have been tested but the one mentioned) 
+Option 7 Choose Yes
+Options 8-9 No, 
+Option 10 Yes without tween Menu, 
+Option 11 Yes, 
+Options 12-13 No. 
+Option 13 is for playstion buttons DO NOT USE LEAVE NO, At the bottom of MO2, there is a separator named `Optional - Controller Support` use this for xbox and playstation buttons if you are using a controller. 
+Now go ahead and click next and finish. 
+Now that mod should fall under rule 11 now move it to `Optional - Ultrawide Support` where you deleted the old files. 
+This doesn't always happen but double check that no plugins fall below DynDOLOD.esp 2nd to last and the last plugin Occlusion.esp (You will crash with plugins below them)
+Congrats you can play with a big screen. 
+
+Note Custom Skills can stil be used even though it is missing from Skills Inventory Map and Magic. Downside to fixing widescreen; but it can still be opened using the hotkey. The hotkey can be changed in game through mod configuration settings. 
 
 ---
 
