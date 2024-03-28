@@ -10,6 +10,14 @@ Press right alt. This is from [Handy Crafting](https://www.nexusmods.com/skyrims
 
 ---
 
+### My game crashes when I launch from MO2. Help!
+
+Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
+
+The other most common cause is an Antivirus (not Windows Defender; a third party antivirus like Webroot or Kaspersky or AVG, etc). Disable those or exclude MO2/scriptextender/etc.
+
+---
+
 #### Can I add/remove [x] mod?
 
 If you have to ask, then the answer is no. If you want to learn, please use the #tempus-rule-11 channel in [my Discord server](https://discord.gg/yABEjwB). DO NOT use the #tempus-support channel for questions about altering the modlist.
