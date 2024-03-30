@@ -1,4 +1,4 @@
-Remember that installation folder you chose for Wabbajack? Pop that guy open.
+Remember that installation folder you chose for the modlist when you launched the Wabbajack app? It's when I recommended a blank folder at the root of a drive, such as `D:/Tempus Maledictum`. Pop that guy open.
 
 Scroll down and find `ModOrganizer.exe`. Launch it.
 
