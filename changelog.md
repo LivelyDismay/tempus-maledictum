@@ -1,3 +1,20 @@
+2024/04/08
+
+Version 6.3.3
+
+Added Better Rkund Navmesh for Legacy of the Dragonborn.  
+Added Harrald Horse Crash Fix.  
+Added CatHub.  
+
+Updated Kaputt - Melee Killmove Manager.  
+Updated Console Commands Extender - Anniversary Edition Update.  
+Updated The Timelost Dwemer - A Deep Elf Race SE.  
+Updated Unofficial Skyrim Modder's Patch Hotfix 2.6.2b.  
+
+Slightly edited Synthesis patch to remove outdated Timelost Dwemer addon.  
+
+---
+
 2024/01/20
 
 Version 6.3.2
