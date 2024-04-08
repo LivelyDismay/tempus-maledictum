@@ -24,6 +24,12 @@ If you have to ask, then the answer is no. If you want to learn, please use the 
 
 ---
 
+#### Can I disable/edit killmoves?
+
+Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
+
+---
+
 #### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
 No. It's a video game. I want to see shit.
