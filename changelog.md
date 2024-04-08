@@ -1,5 +1,13 @@
 2024/04/08
 
+Version 6.3.4
+
+Fixed Deep Elf starter perk stuff.  
+
+---
+
+2024/04/08
+
 Version 6.3.3
 
 Added Better Rkund Navmesh for Legacy of the Dragonborn.  
