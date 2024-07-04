@@ -20,7 +20,7 @@ The other most common cause is an Antivirus (not Windows Defender; a third party
 
 #### Can I add/remove [x] mod?
 
-If you have to ask, then the answer is no. If you want to learn, please use the #tempus-rule-11 channel in [my Discord server](https://discord.gg/yABEjwB). DO NOT use the #tempus-support channel for questions about altering the modlist.
+If you have to ask, then the answer is no. DO NOT use the #tempus-support channel for questions about altering the modlist.
 
 ---
 
