@@ -30,13 +30,22 @@
 
 ### Tempus Maledictum
 
-This is a list I made for myself, primarily to play a lot of quest mods that I've missed out on over the years.
 
-Prefer to see a video on it? [No problem!](https://youtu.be/sWzbKfNdY_A)
+Tempus Maledictum is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no set goal I'm trying to achieve. I just want to have fun.
 
-The main attractions are obviously all the quest mods, as well as Legacy of the Dragonborn and Timelost Dwemer. Personally I prefer the Boat to Solitude start to get a faster LotD start-up, but that's just me, do whatever you want, I'm not your real dad.
+This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
 
-**Support will be minimal.** I want to play this list myself instead of spending all my time fielding support queries. I hope you understand. I just want to have some fun. To that end, if you ask me questions already covered in the readme or the FAQ, I'm going to outright ignore you.
+To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
+
+This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you choose to play Tempus in Survival difficulty, I don't know if any issues may arise from that, and it is unlikely I can help with such issues.
+
+Is Tempus for you? I don't know. [Maybe this video will help!](https://youtu.be/sWzbKfNdY_A)
+
+**Please read this readme in its entirety.**
+
+**Please [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) again before reporting an issue or asking me a question.**
+
+**Please consult the in-game Tempus Maledictum Beginner's Guide book. It is added to your inventory automatically when you start a new game.**
 
 ---
 
@@ -45,6 +54,10 @@ The main attractions are obviously all the quest mods, as well as Legacy of the 
 ---
 
 ### Pre-Installation
+
+## This section is the part that is most often overlooked by people.
+
+# PLEASE DO THIS PART.
 
 You need a legal copy of the latest version of Skyrim Anniversary Edition through Steam, with all DLCs - yes, including the paid AE DLC. No, I won't make a version without the AE content.
  - If you haven't already done this since purchasing AE, launch the game through Steam and allow Skyrim to download all the Creation Club files.
@@ -95,11 +108,12 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Let's get to the actual installation..
 
-Grab the latest release of Wabbajack from [here](http://www.wabbajack.org/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
+Grab the latest release of Wabbajack from [here](http://www.wabbajack.org/) (just click the big blue Download button). Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack/wabbajack.exe`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
 Launch Wabbajack. The exe will download the rest of the program from Github and extract itself wherever you placed the exe. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Tempus Maledictum, and you will be forwarded to the next screen when it is finished.
+ - This exe will auto update itself as needed. This functionality may break if you try launching it from a shortcut. Please just use this one exe all the time, and you'll never have to worry about updating the program.
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Tempus Maledictum`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. You may have the Installation and Download locations on separate drives if you prefer.
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Tempus Maledictum`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. **You may have the Installation and Download locations on separate drives if you prefer.** This can help you split the total cost of space needed.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
@@ -111,7 +125,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 - **I'm having problems downloading a few files**
 
-You almost certainly forgot to download the AE CC content, or you didn't buy it. Purchase the AE DLC from Steam, then launch the game to download the content. If this doesn't fix it, you'll have to pop on over to [my Discord server for live support.](https://discord.gg/yABEjwB)
+You almost certainly forgot to download the AE CC content, or you didn't buy it. Purchase the AE DLC from Steam, then launch the game to download the content, as per the [Pre-Installation section](#pre-installation)
 
 - **Wabbajack could not find my game folder**:
 
