@@ -94,6 +94,12 @@ If all of this is still unsatisfactory, then you'll just have to either deal wit
 
 ---
 
+#### There's a bunch of NPC Replacer mods in MO2 that are disabled. Can I turn them on?
+
+No. They're all part of the EasyNPC output. They're already active in your game. Enabling these individual mods will break your game.
+
+---
+
 #### Can I disable/edit killmoves?
 
 Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
