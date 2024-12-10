@@ -216,7 +216,6 @@ Version 7.0.0
 - Elemental Golems- Mihail Monsters and Animals (SE-AE version)  
 - Elysium Estate SSE - Caretaker NPC Removal  
 - Elysium Estate - Guards Armor Replacer SSE Compatibility Patch  
-- EmbersXD Torch Edit  
 - EVG CLAMBER - Slope Animations  
 - Face Sculptor Expanded  
 - Fancy Fishing  
