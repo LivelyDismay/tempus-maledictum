@@ -100,6 +100,12 @@ No. They're all part of the EasyNPC output. They're already active in your game.
 
 ---
 
+#### I chose a Race other than Deep Elf but I still get the Deep Elf stuff added to my inventory. Why?
+
+Because this mod is really meant to be used by regular mod users. People install it with the intent to use it. Having it in the modlist has adverse effects such as this. You can freely ignore these things, or take advantage of them. Either way, not really a bug, and something you'll have to figure out for yourself in regards to whether or not you want to use it.
+
+---
+
 #### Can I disable/edit killmoves?
 
 Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
