@@ -124,6 +124,12 @@ No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
 
 ---
 
+#### Can I hide my backpack?
+
+No. The `Hide Backpacks` mod only applies to 3 of the Creation Club backpack variants, not all of them. Like above, unequip it or learn to accept it.
+
+---
+
 #### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
 No. It's a video game. I want to see shit.
