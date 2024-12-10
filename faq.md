@@ -112,6 +112,18 @@ Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
 
 ---
 
+#### Lights are flickering while I walk around. Can I fix this?
+
+This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
+
+---
+
+#### My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?
+
+No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
+
+---
+
 #### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
 No. It's a video game. I want to see shit.
