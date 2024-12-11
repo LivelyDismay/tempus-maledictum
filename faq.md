@@ -112,6 +112,12 @@ Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
 
 ---
 
+#### Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?
+
+I know. They're really bad. They have incredibly short range - especially in first person. This is an issue with Precision. Honestly, I'd strongly urge you to juse use a different weapon type. Grab some claws for the museum and that's about it. Sorry.
+
+---
+
 #### Lights are flickering while I walk around. Can I fix this?
 
 This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
