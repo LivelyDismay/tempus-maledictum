@@ -124,6 +124,12 @@ This is an engine limitation. A mesh can only have a maximum of four directional
 
 ---
 
+#### Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?
+
+Yes and no. This is caused by ENB's Ambient Occlusion. You can turn it off if you want, but this will also make your game look a good bit worse. Your call.
+
+---
+
 #### My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?
 
 No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
