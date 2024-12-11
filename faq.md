@@ -130,6 +130,16 @@ I know. They're really bad. They have incredibly short range - especially in fir
 
 ---
 
+#### I am experiencing crashes. What do I do?
+
+There is one known crash in the list, which is during the House of Horrors quest. If you choose the vanilla route (siding with Molag Bol), the game crashes if you skip or tab out of the final dialogue. Simply let this dialogue play out on its own, and you won't crash.
+
+Other than that, we would need more details. Problems can often arise from using third-party Antivirus programs, or using OneDrive (both of these can interfere with MO2's ability to save, so if you're crashing on save/load, it's likely Antivirus/OneDrive issues).
+
+For any other crashes, we'd have to see a crashlog. You can find us over on [Discord](https://discord.gg/livelymods).
+
+---
+
 #### Lights are flickering while I walk around. Can I fix this?
 
 This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
