@@ -45,6 +45,12 @@ If this doesn't fix it, you can try editing the SSE Display Tweaks INI under the
 
 ---
 
+#### When I close my game, I get strange behavior with my mouse. I can't click on other windows. What's up with that?
+
+I have no idea. Apparently it's something to do with MO2, since this isnt list-specific. Good news, though: there's an easy fix. `Ctrl`+`Alt`+`Delete` and then just cancel out of it. Fixes it right away.
+
+---
+
 #### How do I change my FOV?
 
 `Left Shift + Home` opens the Improved Camera GUI. Navigate through the menus and adjust things to your liking. I would recommend saving your changes to a new profile. Easier that way.
