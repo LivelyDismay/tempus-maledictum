@@ -292,7 +292,8 @@ Version 7.0.0
 - More Hircinic Aspects of Hircine- Mihail's Shards of Immersion (SE-AE version)  
 - Morthal Barrow  
 - Multiple Adoptions Improved  
-- My Home is Your Home (MHiYH 2plus) - SSE  
+- My Home is Your Home (MHiYH 2plus) - SSE
+- MYrwatch - House Fix  
 - Naked Dead NPC Fix  
 - Native EditorID Fix  
 - New Madness 2.0  
