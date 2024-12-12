@@ -211,7 +211,7 @@ Version 7.0.0
 - Easy Console Commands  
 - Edge UI  
 - eeekie's Illia  
-- eeekie's Regular Remiel - With glasses  
+- eeekie's Regular Remiel  
 - Elemental Dash  
 - Elemental Golems- Mihail Monsters and Animals (SE-AE version)  
 - Elysium Estate SSE - Caretaker NPC Removal  
@@ -234,7 +234,6 @@ Version 7.0.0
 - Giant Club Variety- Mihail Weapons and Shields (SE-AE version)  
 - Giants Overhaul- Mihail Monsters and Animals (SE-AE version)  
 - Gildergreen Regrown  
-- Glasses Pack Vol.1  
 - Glorious Doors of Skyrim - Missing Door Sounds  
 - Grab And Throw  
 - Grindable Mammoth Tusks  
