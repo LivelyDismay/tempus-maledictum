@@ -1,3 +1,510 @@
+WIP
+
+Version 7.0.0
+
+**UPDATED**
+<details>
+ 
+- Another Race Menu Rotation Mod  
+- Auto Input Switch  
+- Base Object Swapper  
+- Better AltTab  
+- Bring Meeko To Lod  
+- CBBE  
+- Cities of the North - Morthal  
+- Cities of the North - Falkreath  
+- Cities of the North - Falkreath Patch Collection  
+- CoMAP  
+- ConsolePlusPlus  
+- Constructible Object Custom Keyword System  
+- COTN Dawnstar Patch Collection  
+- Crash Logger SSE VR  
+- Creation Club Farming - Tweaks Enhancements and Quest Expansion  
+- Creation Club Open Helmets  
+- Custom Skills Framework  
+- Decorating Madness  
+- Dragons Use Thu'um  
+- Dual Wield Parrying SKSE  
+- Dwemer Pipework Reworked  
+- Dynamic Dodge Animation  
+- DynDOLOD 3.00  
+- DynDOLOD DLL NG  
+- DynDOLOD Resources  
+- DynDOLOD TexGen Fixes  
+- ENB Input Disabler  
+- Enhanced Death Cam  
+- EVG Conditional Idles  
+- Experience  
+- Experience - MCM  
+- Extra Skeleton Nodes - Physics for IED  
+- Face Sculptor Expanded  
+- Formlist Manipulator  
+- Handy Crafting and Spells - Crafting Storage and Travel Enhancements  
+- Harvest Your Blood for Septimus  
+- Headhunter - Bounties Redone  
+- Hearthfires Extended and Creation Club Fishing Patch  
+- Heavy Armory  
+- Heimskr only preaches on weekends  
+- House of Horrors - Quest Expansion  
+- I'm Talkin' Here  
+- Improved Camera SE  
+- Infiltration - Quest Expansion  
+- Innocence Lost - Quest Expansion  
+- Instantly Skip Dialogue NG  
+- Intuitive Dragon Ride Control (SE)  
+- JS Essence Extractor SE  
+- Keyword Item Distributor (KID)  
+- Lawless - A Bandit Overhaul  
+- Leaps of Faith - A Misc Quest  
+- Legacy of the Dragonborn  
+- Legacy of the Dragonborn - The Curator's Companion  
+- Legacy of the Dragonborn - Follower Room Patches  
+- Legacy of the Dragonborn Club Patches  
+- Legacy of the Dragonborn Patches (Official)  
+- Legacy Storage Extension Util  
+- MCM Helper  
+- MFG Fix NG  
+- moreHUD Inventory Edition  
+- Nilheim - Quest Expansion  
+- Nordic Stonewalls  
+- Open Animation Replacer  
+- Papyrus Ini Manipulator  
+- PapyrusUtil SE - Modders Scripting Utility Functions  
+- Particle Patch for ENB  
+- PhotoMode  
+- po3's Papyrus Extender 
+- po3's Tweaks  
+- Rain Extinguishes Fires  
+- Rally's Weapon Racks  
+- Read Or Take SKSE  
+- Redbag's Solitude  
+- RedBag's Solitude Patch Collection  
+- Remiel-Custom Voiced Dwemer Specialist and Companion  
+- RemoveAllItems Freeze Fix  
+- Riften Docks Overhaul  
+- Security Overhaul SKSE - Lock Variations  
+- Sharpen Other Swords II - AnimObject Swapper  
+- Simple Blood Potion  
+- SIRENROOT - Deluge of Deceit  
+- Smoking Torches and Candles SSE  
+- Spell Perk Item Distributor (SPID)  
+- Song of the Green (Auri Follower) - Vigilant Commentary Patch  
+- Sun Affects NPC Vampires  
+- Sure of Stealing  
+- Survival Mode Improved - SKSE  
+- Take a Seat - New DAR Sitting Animations  
+- The Great Cities Resources  
+- The Great City of Winterhold  
+- The Heart of Dibella - Quest Expansion  
+- The Heart of Dibella - Quest Expansion  
+- The Only Cure - Quest Expansion  
+- The Whispering Door - Quest Expansion  
+- Trade and Barter  
+- Traverse the Ulvenwald - No Enhanced Landscapes  
+- True Directional Movement - Modernized Third Person Gameplay  
+- Unaggressive Dragon Priests Fix  
+- Unique Map Weather  
+- Unofficial Skyrim Creation Club Content Patch  
+- Unofficial Skyrim Modders Patch - USMP - Patch Emporium  
+- Valvalis Combat - Visceral Tactics  
+- Various Immersive Tanning Racks  
+- Various Mystic Condenser Patches  
+- Vlindrell Hall Remade  
+- Water for ENB  
+- Wyrmstooth  
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower  
+
+</details>
+
+**ADDED**
+<details>
+
+- A Shrine of Azura at the Shrine of Azura  
+- Acolyte - Divine Covenants  
+- Alchemy Plus  
+- Als Ritual Quest Markers SE  
+- Andrealphus Scene Tweaks  
+- Animals Swim (Sort of)  
+- Animated Ice Bergs  
+- Animated Ships  
+- Animated Ships Patches  
+- Animated Ships - Finer Sails  
+- Archery Rebalance  
+- Ascend - Hidden Peaks of Skyrim  
+- Ash Guardian Expansion- Mihail Monsters and Animals (SE-AE version) (''golem'')  
+- Auri - Meridia Order Patch  
+- Auri Buys Bone Arrows Fix  
+- Auri's Mount Thistlefoot Texture Fix  
+- Auto Audio Switch  
+- Auto Grab Amulets of Skyrim From Standing Stones  
+- Auto Resolution  
+- Azurite Weathers  
+- Baby Mammoths - Mihail Monsters and Animals (SE-AE version)  
+- Backported Extended ESL Support  
+- Bandit Lines Expansion  
+- Better AltTab  
+- Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle  
+- Better Dragon Breath - AOE ground walls and FX  
+- Better Forgotten Vale Portal Textures - Cubemaps - Environment maps  
+- Better Grabbing  
+- Birds of Prey and Felsaad Terns- Mihail Monsters and Animals (SE-AE version)  
+- Bonemold Armor Replacer (SMP)  
+- Bound Weapon Fix  
+- Bounty Quests Redone - NG  
+- Bow Of Shadows - Whiterun Thane  
+- Bow of Shadows Invisibility Patch  
+- Brawl Lines Expansion and Fixes  
+- Bridges of Skyrim - Better Navmesh   
+- Bruiser - Hand to Hand CSF Skill Tree  
+- Burnt Corpses 4k Retexture- Mihail's Shards of Immersion (SE-AE version)  
+- Buyable Home Patch for Elysium Estate SSE  
+- Carriage and Ferry Travel Overhaul Patch  
+- Carriages and Stables Dialogue Bundle  
+- Cathedral 3D Sword Ferns  
+- Carriage Ferry Travel Overhaul useless dock removal - Base Object Swapper - CFTO - BOS  
+- Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)  
+- Chitin Armor Replacer (SMP)  
+- Civil War Lines Expansion  
+- Classic Paralysis  
+- ClickLight - Colour Picker FOMOD  
+- Cliff Racers Fly So High- Mihail Monsters and Animals (SE-AE version)  
+- College of Winterhold - Quest Expansion  
+- Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM  
+- Conditional Expressions - Subtle Face Animations  
+- Conditional Expressions Extended  
+- Conditional Expressions for NPCs  
+- Conditional Expressions Sound Loop Bugfix  
+- Considerate Followers - Followers are Silent During Dialogue  
+- Console Commands Extender  
+- COTN Falkreath Center Tree Replacer  
+- Cow Replacer - My optimized textures and SkyTEST patch SE by Xtudo  
+- Crimson Nirnroot Bosses - Return to Your Roots Alternative  
+- Crouch Sliding  
+- Crouch Sliding - Pandora fix  
+- Crouch Sliding - Remove Ragdolling for Good  
+- Crouch Sliding TUDM Patch - Slide with Your Weapon Drawn  
+- Crows and Ravens- Mihail Monsters and Animals (SE-AE version)  
+- CS' Fishing Nets  
+- Daggermouth - Mihail Monsters and Animals (SE-AE version)  
+- Damaged Skeletons- Mihail Monsters and Animals (SE-AE version) (''undead'')  
+- Dark Elf Voices For Bandits  
+- Darkend - Enemy Rebalance  
+- Defeat the Dragon Cult  
+- Demon of Dream  
+- Depths of the Reach  
+- Destroy The Dark Brotherhood - Quest Expansion  
+- Detect Life and Detect Dead Rework - No longer concentration  
+- Dialogue History  
+- Dismembering Framework  
+- Diverse and Lootable Firewood  
+- Diverse Tanning Racks - Base Object Swapper  
+- Doomsday of Blades- Mihail Monsters and Animals (SE-AE version) (''mythic dawn'')  
+- Dragon Breath VFX Edit  
+- Dragon Come Back  
+- Dryads - Mihail Monsters and Animals (SE-AE version) (''spriggan'')  
+- DVA - Dynamic Vampire Appearance  
+- Dynamic Activation Key  
+- Dynamic Animation Casting - NG  
+- Dynamic Interface Patcher - DIP  
+- Dynamic Mercenary Fees  
+- Dynamic Things Alternative  
+- Easy Console Commands  
+- Edge UI  
+- eeekie's Illia  
+- eeekie's Regular Remiel  
+- Elemental Dash  
+- Elemental Golems- Mihail Monsters and Animals (SE-AE version)  
+- Elysium Estate SSE - Caretaker NPC Removal  
+- Elysium Estate - Guards Armor Replacer SSE Compatibility Patch  
+- EVG CLAMBER - Slope Animations  
+- Face Sculptor Expanded  
+- Fancy Fishing  
+- Faster HDT-SMP  
+- First Person Animation Teleport Bug Fix  
+- Fishermen Fish  
+- Flame VFX Edit  
+- Flute Animation Fix  
+- Follower Trap Safety - SPID  
+- Forceless Dawnbreaker Explosion - AE  
+- Forsworn and Thalmor Lines Expansion  
+- Fortune's Tradehouse  
+- Frogs- Mihail Monsters and Animals (SE-AE version)  
+- Frost VFX Edit  
+- G.I.R.T.H. - Gildergreen Is Really Thicc HD  
+- Giant Club Variety- Mihail Weapons and Shields (SE-AE version)  
+- Giants Overhaul- Mihail Monsters and Animals (SE-AE version)  
+- Gildergreen Regrown  
+- Glorious Doors of Skyrim - Missing Door Sounds  
+- Grab And Throw  
+- Grindable Mammoth Tusks  
+- Hanging Dead Animals Replacer- Mihail's Shards of Immersion (SE-AE)  
+- Hanging Dead Pheasants Replacer- Mihail's Shards of Immersion (SE-AE)  
+- Harkon Sword Rework  
+- Harthstone Isles  
+- Havocrels- Mihail Monsters and Animals (SE-AE version) (''eso'')  
+- Hayd's Warpaints  
+- HCaS Fish Anywhere with Simple Fishing Overhaul  
+- HCaS Ordinator Bone Collector Patch  
+- HCaS Silent Spells  
+- HDT-SMP for Cloaks and Capes  
+- Headhunter - Bounties Redone  
+- Healing VFX Edit  
+- Hearthfire Multiple Adoptions  
+- Heavy Armory - New Weapons  
+- Heavy Chitin Armor Replacer (SMP)  
+- Hide Backpacks  
+- Hive Guardians- Mihail Monsters and Animals (SE-AE version) (''falmer'')  
+- Horse Save Load Fix  
+- Hotkey Reminder  
+- I4 Armor Icons Overhaul  
+- IA Merged - Multiple Adoptions version  
+- IDRC - Diverse Dragons Collection Patch  
+- Imaginarium ENB  
+- Immersive Equipment Displays - Extra Skeleton Nodes  
+- Immersive Rejections  
+- INDIGO  
+- Infiltration - Quest Expansion  
+- Insightful Shalidor's Insights (esl)  
+- Iron Armor Replacer (SMP)  
+- Items Stolen Bug Fix  
+- JS Badges of Office  
+- JS Unique Utopia SE - Rings  
+- JS Vanilla Circlets SE  
+- Jump Slide Fix OAR  
+- Just Reject Boethiah  
+- Khajiit Has Tents  
+- Less Block Without Shield  
+- Lesser Ice Golem- Mihail Monsters and Animals (SE-AE version)  
+- Leveled List Crash Fix  
+- Lightning VFX Edit  
+- Local Map Color  
+- Local Map Upgrade  
+- Marked Treasure SSE (NG)  
+- MergeMapper   
+- MfgFix NG  
+- Mihail's CC Goblins Overhaul (SE's Creation Club- AE)  
+- Mihail's CC Zombies Overhaul (SE's Creation Club- AE)  
+- Missing in Action Delayed - Level and Quest Requirement  
+- Modular SMP Hairstyles  
+- More Ancient Frost Atronachs- Mihail Monsters and Animals (SE-AE version)  
+- More Cow Variants- Mihail Monsters and Animals (SE-AE)  
+- More Hircinic Aspects of Hircine- Mihail's Shards of Immersion (SE-AE version)  
+- Morthal Barrow  
+- Multiple Adoptions Improved  
+- My Home is Your Home (MHiYH 2plus) - SSE
+- MYrwatch - House Fix  
+- Naked Dead NPC Fix  
+- Native EditorID Fix  
+- New Madness 2.0  
+- New Moon Cottage  
+- Next-Gen Decapitations  
+- Nightgate Inn Revived  
+- Nirn Necessities - SMP Accessories  
+- Nirn Necessities - Generic Distribution Add-on  
+- No Grass In Objects  
+- No Mask Unturned  
+- NPCs Learn to Aim  
+- NPCs React To Frenzy  
+- NPCs React To Invisibility  
+- NPCs Take Cover - Smarter Anti-Cheese AI  
+- NPCs Wear Amulets of Mara PLUS  
+- Obscure's College of Winterhold Loot Rebalancing  
+- Ogres and Ettins- Mihail Monsters and Animals (SE-AE version)  
+- Orc Addon for Vampire Lines Expansion  
+- Opheus  
+- Oxygen Meter 2  
+- Paired Animation Improvements  
+- Parkour in Skyrim - EVG Animated Traversal Addon  
+- Patch for Lawless and Infiltration Quest Expansion  
+- Perks of Valhalla - Block Skill Tree  
+- Perks of Valhalla - Block Skill Tree SPID Distribution  
+- Possessed Daedric Armours- Mihail Monsters and Animals (SE-AE version)  
+- Precision magic trails  
+- Press E to Heal Followers  
+- Project AHO - Saving The Oryses Tweaks  
+- Rainbows Remade  
+- Rally's Banners of Skyrim  
+- RedBag's Rorikstead FOMOD  
+- Redcap CC Goblins Commentary and Gogh Interactions  
+- Redcap EVG Animated Traversal Addon (ESL flagged)  
+- Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest  
+- Reimperialized Darklight Tower - Location Overhaul and New Tileset  
+- Reindeer Herds- Mihail Monsters and Animals (SE-AE version)  
+- Remote Interactions  
+- Request Break from Bards  
+- Restoring the Aretino Residence SE  
+- Return Aegisbane  
+- Revealing Rune  
+- Riekling Ice-Carved Steed - Mihail Monsters and Animals (SE-AE version)  
+- Ring-necked Pheasants - Mihail Monsters and Animals (SE-AE version)  
+- Rise in the East - Immersive Start - Don't Miss Japhet's Folly  
+- Rogue's Gallery  
+- Run For Your Lives  
+- Safehouse Spellforge  
+- Sanctified Stolen Goods  
+- Sandbox When Idle  
+- Savage Serana  
+- Sea Giants and Ice Titans- Mihail Monsters and Animals (SE-AE version)  
+- Sea Turtles- Mihail Monsters and Animals (SE-AE version)  
+- Sense Death - It reeks (Detect Dead)  
+- Sensible Bribes - Based on Speechcraft Not Level  
+- Sensible Dawnguard Prerequisite  
+- Sensible Oculory Solution - Logical Mzark Puzzle - Discerning The Transmundane - Main Quest  
+- Sensible Undeath Prerequisite - No Level  
+- Sensible Wyrmstooth Prerequisite  
+- Simple Fishing Overhaul - Animations and Improved Quest Dialogue  
+- Skill Based Dynamic Animations  
+- Skip Time Wound Scene (optional and initially disabled, just in case the scene bugs out)  
+- Skyrim on Skooma  
+- Skyrim SE Skill Interface Re-Texture  
+- SkyTactics - Dynamic Combat Styles  
+- Sky Reflection Fix  
+- Sleeping Expanded - Animations and NPC reactions  
+- Small Nordic Tent- Animated  
+- Smart NPC Potions - Enemies Use Potions and Poisons  
+- SMP Wind  
+- Snazzy - Skyrims Unique Treasures (Plus Legacy of the Dragonborn Patch)  
+- Soldier of Stendarr  
+- Sound Record Distributor  
+- Spellbreaker Reforged  
+- Spellforge  
+- SPID-ified - HDT-SMP for Cloaks and Capes  
+- Stamina of Shooting - Drawing Bow Costs Stamina  
+- Stealing Not Browsing - A Pickpocket Mod  
+- Stonefire Weaponry- Mihail Weapons and Shields (SE-AE version)  
+- Stronger Potema - Wolf Queen Boss  
+- Stuff of Shadows  
+- Summoning Portals VFX Edit  
+- Talkative Falmers - Mihail Monsters and Animals (SE-AE version)  
+- Talkative Flame Atronachs - Mihail Monsters and Animals (SE-AE version)  
+- Talkative Hagravens - 2023 Halloween Special (SE-AE version)  
+- Talkative Spriggans- Mihail Monsters and Animals (SE-AE version)  
+- Talkative Storm Atronachs - Mihail Monsters and Animals (SE-AE version)  
+- Talkative Wispmothers - Mihail Monsters and Animals (SE-AE version)  
+- Taunt Your Enemies - Taunting Matters  
+- Thane's Privilege - Guards Forgive You Multiple Times  
+- The Cursed Mercenaries  
+- The Dark Arts  
+- The Dragonborn's Bestiary  
+- The Dragonborn's Bestiary - Lively's Alchemy Addon  
+- The Dragonborn's Fishiary  
+- The Emperor's Bodyguard - Dark Brotherhood Questline Final Boss  
+- The Sunken City  
+- The Taste of Death - Quest Addon  
+- There Is No Umbra - Chapter III  
+- There Is No (CC) Umbra  
+- Thugs Not Assassins Extended  
+- Troll Cubs- Mihail Monsters and Animals (SE-AE version)  
+- Trolls SE  
+- TUDM Pandora Animation Patch  
+- Tundra Homestead - LotD Storage  
+- Ultimate Animated Potions NG  
+- Unmasking Sybille  
+- Val Serano  
+- Val Serano - Salt and Wind Retextures  
+- Vampire Animations  
+- Vampire Feeding Tweaks  
+- Vampire Lines Expansion  
+- Vanilla Eating Animation Fixes  
+- Vigil Enforcer Retexture SE  
+- VIGILANT - No Early Daedric Weapons  
+- VIGILANT - No Thalmor Weapons  
+- VIGILANT - Smaller Dragon knight Tower Shield 25  
+- Vipir Pickpocket Training Fix  
+- Werebeasts Don't Talk  
+- Werewolf Power Attack Fix  
+- Werewolf Power Attack Fix - Violens Patch  
+- Whiterun Exterior Patch Collection  
+- Wild Horses - Voiced Addon (CC)  
+- Wounds Overlays For RaceMenu  
+- ZeusCam - A Next Gen Cinematic SmoothCam Preset  
+- zxlice's ultimate potion animation - ZUPA  
+
+</details>
+
+**REMOVED**
+<details>
+ 
+- 8k 4k Nordic Mountains - Just Textures  
+- Ancient Dwemer Metal - My patches - Clockwork  
+- Animated Small Nordic Tent Replacer  
+- Apocalypse - Waterstride Spell Addon  
+- Apophysis Dragon Priest Masks  
+- Archery Gameplay Overhaul  
+- Better Ferns  
+- Blackthorn (and all associated mods and patches)  
+- Cathedral Weathers and Seasons  
+- Cathedral Weathers and Seasons Unofficial Update  
+- Cathedral Weathers MCM  
+- Clockwork (SSE)  
+- Clockwork shadow redone  
+- Clockwork - No Lockpick Activate (SKSE) Patch  
+- Clockwork - Particle Lights for ENB Addon  
+- CoMAP  
+- Culminated ENB  
+- Dear Diary  
+- Dynamic Firewood Stacks  
+- Elevated NPCs  
+- ERM - Enhanced Rocks and Mountains  
+- EVGATLOTD Patch  
+- Faction - Pit Fighter  
+- Faction - Pit Fighter - Revamped  
+- Faction - Pit Figher Travels Add-on  
+- Favor Quests Separated  
+- Fluffy Beds and Bedrolls  
+- Fossil Mining  
+- Hoth  
+- Improved Daedric Artifacts SE  
+- Inigo (and all associated mods and patches)  
+- Intuitive Dragon Ride Control (SE)  
+- Kaidan 2 (and all associated mods and patches)  
+- Legacy of The Dragonborn - Cube Maps Fixed  
+- Legacy of The Dragonborn - Museum Exterior Fixes  
+- Legacy of the Dragonborn - Serana's Safehouse Room (Unofficial)  
+- Legacy of the Dragonborn - Serana's Safehouse Room (Unofficial) - Alternate Painting  
+- Legacy Safehouse Plus  
+- Lively's Second Great War Patches  
+- New Treasure Hunt SSE  
+- Odin Spells for NPCs  
+- Oxygen Meter  
+- Polar Peaks  
+- Race Compatibility Dialogue for Inigo  
+- Rainbows SE  
+- Real Mountains Rebuilt - FoMod  
+- RedBag's Rorikstead - Second Great War Patch  
+- RedBag's Rorikstead - New Treasure Hunt Patch  
+- RedBag's Rorikstead - ASLAL Patch  
+- RedBag's Rorikstead - CC Pets Patch  
+- RedBag's Rorikstead - Embers XD Patch  
+- RedBag's Rorikstead - SUT Patch  
+- RedBag's Rorikstead - Ulvenwald Patch  
+- Riften Docks Overhaul - Clockwork  
+- Serana Safehouse Room TCC Patch  
+- Sets of Skills (and all associated mods and patches)  
+- Stats of Stealing  
+- Supreme Rainstorms SE  
+- Survival Mode Vampires - Health Regen Fix  
+- The Falkreath Hauntings  
+- The Gray Cowl of Nocturnal SE - Retexture  
+- The Gray Cowl of Nocturnal SSE - HD pack  
+- The Gray Cowl of Nocturnal SE  
+- The Gray Cowl of Nocturnal - Alternative Start  
+- The Second Great War  
+- The Second Great War - Relationship Dialogue Overhaul  
+- The Second Great War - USSEP  
+- TrueHUD - HUD Additions - Gray Cowl of Nocturnal Boss Ini Tweaks  
+- Treasure Hunter for SSE  
+- Untarnished UI  
+- Use Or Take SKSE  
+- Vanargand Animations - Archery  
+- Vanargand Animations - Sneak Archery  
+- Wintersun (and all associated mods and patches)  
+- Zim's Immersive Artifacts  
+
+</details>
+
+---
+
 2024/04/08
 
 Version 6.3.4
