@@ -1,4 +1,4 @@
-WIP
+2024/12/13
 
 Version 7.0.0
 
@@ -169,7 +169,6 @@ Version 7.0.0
 - ClickLight - Colour Picker FOMOD  
 - Cliff Racers Fly So High- Mihail Monsters and Animals (SE-AE version)  
 - College of Winterhold - Quest Expansion  
-- Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM  
 - Conditional Expressions - Subtle Face Animations  
 - Conditional Expressions Extended  
 - Conditional Expressions for NPCs  
