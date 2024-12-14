@@ -30,7 +30,7 @@ When I start Tempus Maledictum, the game is zoomed in!
 
 Windows Scaling is messing with the game. To fix this:
 
-- Go the folder you installed Magnum Opus into
+- Go the folder you installed Tempus into
 - Then go into the Stock Game folder
 - Right click on the SkyrimSE.exe item
 - Choose Properties
