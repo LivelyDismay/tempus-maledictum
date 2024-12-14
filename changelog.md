@@ -5,7 +5,7 @@ Version 7.0.2
 - Updated Relic Hunter- Guildmaster Start (Legacy and ASLAL addon).  
 - Updated The Dark Arts (which got renamed to Practical Necromancy, so if you're searching for this in the future, here you go).  
 - Removed Auto Audio Switch.  
-- Flagged experimental Ultrawide files to be inluded in the compile.  
+- Flagged experimental Ultrawide files to be included in the compile.  
 - Changed some MCM settings.  
 
 ---
