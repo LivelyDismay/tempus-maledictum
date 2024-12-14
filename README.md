@@ -80,6 +80,10 @@ Download the x64 version under [Visual Studio 2012 (VC++ 11.0) Update 4](https:/
 
 [Direct Link](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe) if you can't find it.
 
+##### .NET 8
+
+[Click this fancy link](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and grab yourself .NET 8.
+
 #### Steam Config
 
 #### Change Steams Update Behavior
