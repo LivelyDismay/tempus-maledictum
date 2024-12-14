@@ -1,5 +1,16 @@
 2024/12/13
 
+Version 7.0.1
+
+- Updated SKSE Menu Framework.  
+- Changed SKSE Menu Framework to no longer open the mod control panel when pressing F1 (you can still open it via holding F1).  
+- Fixed Auri's body textures. Unfortunately, this does involve rebuilding EasyNPC so WJ will probably have to reassemble that for you as well.    
+- Updated scripts for The Dragonborn's Bestiary - Lively's Alchemy Addon.  
+
+---
+
+2024/12/13
+
 Version 7.0.0
 
 **UPDATED**
