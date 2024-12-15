@@ -4,13 +4,13 @@
 
 ---
 
-#### Hotkeys?
+### Hotkeys?
 
 All default keyboard, mouse, and gamepad bindings are listed in Hotkey Reminder (F11). You can click the buttons to see if there are "combos" as well (for example, click the left trigger on the controller, and it shows you what happens if you were to press Trigger+D-pad buttons in-game). Pretty fancy.
 
 ---
 
-#### Can I change some bindings?
+### Can I change some bindings?
 
 Sure. Most are handled by the default settings in the game menu. Dodge is handled by The Ultimate Dodge Mod MCM, where the dodge key is the vanilla Sneak key (in the vanilla game menu key bindings) while the Sneak key is set in the MCM. Dual wield block is handled by an INI which must be changed manually, in the Dual Wield Block INI. Do note that INIs cannot be changed in-game; you have to exit the game to edit this binding.
 
@@ -18,7 +18,7 @@ If you want to also change what's listed in the Hotkey Reminder (F11) menu, open
 
 ---
 
-#### My game crashes when I launch from MO2. Help!
+### My game crashes when I launch from MO2. Help!
 
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
 
@@ -26,7 +26,7 @@ The other most common cause is an Antivirus (not Windows Defender; a third party
 
 ---
 
-When I start Tempus Maledictum, the game is zoomed in!
+### When I start Tempus Maledictum, the game is zoomed in!
 
 Windows Scaling is messing with the game. To fix this:
 
@@ -45,19 +45,19 @@ If this doesn't fix it, you can try editing the SSE Display Tweaks INI under the
 
 ---
 
-#### When I close my game, I get strange behavior with my mouse. I can't click on other windows. What's up with that?
+### When I close my game, I get strange behavior with my mouse. I can't click on other windows. What's up with that?
 
 I have no idea. Apparently it's something to do with MO2, since this isnt list-specific. Good news, though: there's an easy fix. `Ctrl`+`Alt`+`Delete` and then just cancel out of it. Fixes it right away.
 
 ---
 
-#### How do I change my FOV?
+### How do I change my FOV?
 
 `Left Shift + Home` opens the Improved Camera GUI. Navigate through the menus and adjust things to your liking. I would recommend saving your changes to a new profile. Easier that way.
 
 ---
 
-#### Can I add/remove/edit/change/clean [x] mod?
+### Can I add/remove/edit/change/clean [x] mod?
 
 You can do whatever you want. However, I am under no obligation to help you. This will be considered a violation of Rule 11 of the Discord server, and you will be removed from the official support channel.
 
@@ -65,13 +65,13 @@ Having said that, if you find and report a bug in the list, and you're trying to
 
 ---
 
-#### So you won't help me at all?
+### So you won't help me at all?
 
 Man, I'd be glad to teach you some stuff about modding. [I thoroughly enjoy doing so.](https://github.com/LivelyDismay/Learn-To-Mod/wiki) What I don't like is when people demand I add or remove mods *for* them. I want to make MY list, not YOUR list. But if you *actually* want to learn, yeah, I'll help down in the general/social channels, for sure. Unfortunately, a vast majority of people aren't interested in learning, and I've grown rather jaded. Such is life.
 
 ---
 
-#### What are the minimum requirements / recommended specs for this list?
+### What are the minimum requirements / recommended specs for this list?
 
 I don't know, and I'll explain why:
 
@@ -100,37 +100,37 @@ If all of this is still unsatisfactory, then you'll just have to either deal wit
 
 ---
 
-#### There's a bunch of NPC Replacer mods in MO2 that are disabled. Can I turn them on?
+### There's a bunch of NPC Replacer mods in MO2 that are disabled. Can I turn them on?
 
 No. They're all part of the EasyNPC output. They're already active in your game. Enabling these individual mods will break your game.
 
 ---
 
-#### I don't like the way certain NPCs look. Can I change it?
+### I don't like the way certain NPCs look. Can I change it?
 
 Not without rerunning EasyNPC and choosing different replacers. This will violate Rule 11 of the discord, so please do not break that rule.
 
 ---
 
-#### I chose a Race other than Deep Elf but I still get the Deep Elf stuff added to my inventory. Why?
+### I chose a Race other than Deep Elf but I still get the Deep Elf stuff added to my inventory. Why?
 
 Because this mod is really meant to be used by regular mod users. People install it with the intent to use it. Having it in the modlist has adverse effects such as this. You can freely ignore these things, or take advantage of them. Either way, not really a bug, and something you'll have to figure out for yourself in regards to whether or not you want to use it.
 
 ---
 
-#### Can I disable/edit killmoves?
+### Can I disable/edit killmoves?
 
 Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
 
 ---
 
-#### Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?
+### Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?
 
 I know. They're really bad. They have incredibly short range - especially in first person. This is an issue with Precision. Honestly, I'd strongly urge you to juse use a different weapon type. Grab some claws for the museum and that's about it. Sorry.
 
 ---
 
-#### I am experiencing crashes. What do I do?
+### I am experiencing crashes. What do I do?
 
 There is one known crash in the list, which is during the House of Horrors quest. If you choose the vanilla route (siding with Molag Bol), the game crashes if you skip or tab out of the final dialogue. Simply let this dialogue play out on its own, and you won't crash.
 
@@ -140,55 +140,55 @@ For any other crashes, we'd have to see a crashlog. You can find us over on [Dis
 
 ---
 
-#### Lights are flickering while I walk around. Can I fix this?
+### Lights are flickering while I walk around. Can I fix this?
 
 This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
 
 ---
 
-#### Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?
+### Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?
 
 Yes and no. This is caused by ENB's Ambient Occlusion. You can turn it off if you want, but this will also make your game look a good bit worse. Your call.
 
 ---
 
-#### My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?
+### My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?
 
 No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
 
 ---
 
-#### Can I hide my backpack?
+### Can I hide my backpack?
 
 No. The `Hide Backpacks` mod only applies to 3 of the Creation Club backpack variants, not all of them. Like above, unequip it or learn to accept it.
 
 ---
 
-#### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
+### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
 No. It's a video game. I want to see shit.
 
 ---
 
-#### Everything is too dark, can I brighten it up somehow?
+### Everything is too dark, can I brighten it up somehow?
 
 Shift+Enter to open the ENB GUI. Adjust as you see fit. When you're done, click Save Configuration. Shift+Enter again to close the ENB GUI.
 
 ---
 
-#### My night eye/vampire sight/etc powers don't work.
+### My night eye/vampire sight/etc powers don't work.
 
 Yeah, ENBs tend to do that. Press `Shift+Enter`, navigate to the righthand column of the ENB GUI, expand the `ENBEFFECT.FX` section, and enable the option that states `Use Nigheye Fix`. Then, in the lefthand column, click `Save Configuration`, then click `Apply Configuration`. Press `Shift+Enter` again to close the ENB GUI.
 
 ---
 
-#### There is a white flash when I shout/use powers/etc.
+### There is a white flash when I shout/use powers/etc.
 
 This means you turned on the Nighteye Fix above. Turn it back off using the same instructions above, except now you're disabling it instead of enabling it. Don't forget to Save+Apply.
 
 ---
 
-#### I'm having a hard time finding Spell Tomes. Where are they?
+### I'm having a hard time finding Spell Tomes. Where are they?
 
 Spells are primarily now acquired through Spellforge. There's one in the starting prison cell along with enough materials for you to create 5 novice spells. You can also read the Spellforge Manual to teach yourself how to conjure your own Spellforge anywhere - please note that spells crafted at a custom Spellforge are more "expensive" than at placed Spellforges, such as the one in the Dragonborn Museum safehouse.
 
@@ -196,13 +196,13 @@ There are a few other Spellforges in the world as well. Go find them.
 
 ---
 
-#### What about the Spell Tomes I need for the Museum displays?
+### What about the Spell Tomes I need for the Museum displays?
 
 You can craft a spell, then use the Transcribe power to create a Spell Tome from the spell you have equipped in your right hand.
 
 ---
 
-#### I found an exploit / this armor is way too good / this weapon is too strong. Will you fix it?
+### I found an exploit / this armor is way too good / this weapon is too strong. Will you fix it?
 
 Probably not. It's a single player game. If you think something is too strong, don't use it. If you find an exploit, use self control. At the end of the day, you're not hurting anyone but yourself. If that's how you enjoy playing, then more power to you. I don't care at all.
 
@@ -210,37 +210,37 @@ Besides, this is an LotD list. There's going to be a lot of overpowered stuff. G
 
 ---
 
-#### I went to Elysium Estate but the ghost isn't there. How do I get the house?
+### I went to Elysium Estate but the ghost isn't there. How do I get the house?
 
 You have to buy it now. Read the note attached to the front door of the estate.
 
 ---
 
-#### Sprint swimming and getting out of the water makes me swim on land!
+### Sprint swimming and getting out of the water makes me swim on land!
 
 Jump. Or stop the sprint-swimming prior to exiting the water.
 
 ---
 
-#### Is the world unleveled?
+### Is the world unleveled?
 
 No.
 
 ---
 
-#### Where is Inigo?
+### Where is Inigo?
 
 Dead.
 
 ---
 
-#### What ENB is in this list?
+### What ENB is in this list?
 
 Imaginarium ENB.
 
 ---
 
-#### How do I start the Goldenhills Plantation CC stuff?
+### How do I start the Goldenhills Plantation CC stuff?
 
 You need to be level 15, then speak with an innkeeper in either Whiterun or Rorikstead. They will have a line of dialogue about work in the area.
 
