@@ -1,3 +1,25 @@
+Version 7.1.0
+
+2024/12/15
+
+- Updated Legacy of the Dragonborn.
+- Updated Legacy of the Dragonborn Official Patches.
+- Updated Legacy of the Dragonborn - Creation Club Patches.
+- Updated Bow of Shadows - Thane Required.
+- Updated Next-Gen Decapitations.
+
+
+- Removed edits to spell injection quests (primarily on Enai's spell mods). To account for this change, increased spell tome value by 800%. I think this will ultimately make things more interesting so you aren't *required* to rely on Spellforge, but still heavily encouraged to do so.
+- Fixed Brawler's Iron Gauntlets model causing a meshsplosion.
+- Fixed Proventus not giving Steward's Note for the Bow of Shadows CC quest.
+- Fixed bird perches in Morthal and Ivarstead (thank you, Wartortle).
+- Fixed landscape gaps outside Whiterun (thank you, Wartortle).
+- Made some edits to Dragonborn's Fishiary because I didn't like the way some of it was done (namely, the easter egg entry / no easter egg patch).
+
+This update should fix issues people are having in regards to crashing on save/load sometimes.
+
+---
+
 2024/12/14
 
 Version 7.0.2
