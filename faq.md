@@ -102,7 +102,7 @@ If all of this is still unsatisfactory, then you'll just have to either deal wit
 
 ### What are these icons in my inventory / how do I keep track of LotD displays?
 
-![alt text](https://github.com/LivelyDismay/tempus-maledictum/blob/dd8e06f23d0654a81809df1938bb248b87bb5339/curators%20companion%20icons.png)
+![alt text](https://github.com/LivelyDismay/tempus-maledictum/blob/dd8e06f23d0654a81809df1938bb248b87bb5339/curators%20companion%20icons.png)  
 These icons are very helpful.
 
 ---
