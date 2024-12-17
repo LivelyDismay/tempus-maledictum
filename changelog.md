@@ -1,6 +1,32 @@
-Version 7.1.0
+2024/12/17
+
+Version 7.1.1
+
+**UPDATED**
+- Updated Better Grabbing.
+- Updated The Dragonborn's Fishiary - Bestiary Addon.
+- Updated Considerate Followers - Followers are Silent During Dialogue.
+- Updated Local Map Upgrade.
+- Updated Local Map Upgrade - Edge UI Patch.
+
+**ADDED**
+- Added Oblivion Artifact Pack - Misc Fixes.
+
+**NOTES**
+- Reinstalled SkyHUD to add the iHud Compatibility Patch.
+- New Synthesis and EasyNPC outputs. No more naked ladies.
+- Patched Orpheus for ASLAL (thanks Tortle).
+- Patched a missing mesh in High Gate Ruins (thanks Tortle).
+- Updated Main, FAQ, and Post Installation sections of the ReadMe.
+- Renamed Display Tweaks INI in Overrides to have the `_Custom` suffix.
+- Moved `Survival Mode INI - Enabled` mod to the Optionals section. I think people are more likely to see it here.
+- Inlined a preset from Rose upon request.
+
+---
 
 2024/12/15
+
+Version 7.1.0
 
 - Updated Legacy of the Dragonborn.
 - Updated Legacy of the Dragonborn Official Patches.
