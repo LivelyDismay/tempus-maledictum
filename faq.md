@@ -139,11 +139,13 @@ I know. They're really bad. They have incredibly short range - especially in fir
 
 ### I am experiencing crashes. What do I do?
 
-There is one known crash in the list, which is during the House of Horrors quest. If you choose the vanilla route (siding with Molag Bol), the game crashes if you skip or tab out of the final dialogue. Simply let this dialogue play out on its own, and you won't crash.
+There is one known crash in the list, which is during the House of Horrors quest. If you choose the vanilla route (siding with Molag Bal), the game crashes if you skip or tab out of the final dialogue. Simply let this dialogue play out on its own, and you won't crash.
 
 Other than that, we would need more details. Problems can often arise from using third-party Antivirus programs, or using OneDrive (both of these can interfere with MO2's ability to save, so if you're crashing on save/load, it's likely Antivirus/OneDrive issues).
 
 For any other crashes, we'd have to see a crashlog. You can find us over on [Discord](https://discord.gg/livelymods).
+
+Please remember that this was a very large update that was recently put out, and we are a very small team. The thousands of you will see more of the game in a day than the half dozen of us saw in three months. **I genuinely want to provide the best possible experience for you,** so please feel free to report bugs, and have some patience. We will address any issues when we can.
 
 ---
 
@@ -173,7 +175,7 @@ No. The `Hide Backpacks` mod only applies to 3 of the Creation Club backpack var
 
 ### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
-No. It's a video game. I want to see shit.
+No. It's a video game. I want to see.
 
 ---
 
@@ -183,29 +185,13 @@ Shift+Enter to open the ENB GUI. Adjust as you see fit. When you're done, click 
 
 ---
 
-### My night eye/vampire sight/etc powers don't work.
-
-Yeah, ENBs tend to do that. Press `Shift+Enter`, navigate to the righthand column of the ENB GUI, expand the `ENBEFFECT.FX` section, and enable the option that states `Use Nigheye Fix`. Then, in the lefthand column, click `Save Configuration`, then click `Apply Configuration`. Press `Shift+Enter` again to close the ENB GUI.
-
----
-
-### There is a white flash when I shout/use powers/etc.
-
-This means you turned on the Nighteye Fix above. Turn it back off using the same instructions above, except now you're disabling it instead of enabling it. Don't forget to Save+Apply.
-
----
-
 ### I'm having a hard time finding Spell Tomes. Where are they?
 
 Spells are primarily now acquired through Spellforge. There's one in the starting prison cell along with enough materials for you to create 5 novice spells. You can also read the Spellforge Manual to teach yourself how to conjure your own Spellforge anywhere - please note that spells crafted at a custom Spellforge are more "expensive" than at placed Spellforges, such as the one in the Dragonborn Museum safehouse.
 
 There are a few other Spellforges in the world as well. Go find them.
 
----
-
-### What about the Spell Tomes I need for the Museum displays?
-
-You can craft a spell, then use the Transcribe power to create a Spell Tome from the spell you have equipped in your right hand.
+You can also still buy Spell Tomes, but the prices for them have been increased by 800%.
 
 ---
 
