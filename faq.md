@@ -1,6 +1,39 @@
 ## Tempus Maledictum Frequently Asked Questions
 
-
+### Table of Contents
+- [Tempus Maledictum Frequently Asked Questions](#tempus-maledictum-frequently-asked-questions)
+  - [Table of Contents](#table-of-contents)
+  - [Hotkeys?](#hotkeys)
+  - [Can I change some bindings?](#can-i-change-some-bindings)
+  - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
+  - [When I start Tempus Maledictum, the game is zoomed in!](#when-i-start-tempus-maledictum-the-game-is-zoomed-in)
+  - [When I close my game, I get strange behavior with my mouse. I can't click on other windows. What's up with that?](#when-i-close-my-game-i-get-strange-behavior-with-my-mouse-i-cant-click-on-other-windows-whats-up-with-that)
+  - [How do I change my FOV?](#how-do-i-change-my-fov)
+  - [Can I add/remove/edit/change/clean x mod?](#can-i-addremoveeditchangeclean-x-mod)
+  - [What are the minimum requirements / recommended specs for this list?](#what-are-the-minimum-requirements--recommended-specs-for-this-list)
+  - [I'm having low FPS / I am not happy with my performance. What can I do?](#im-having-low-fps--i-am-not-happy-with-my-performance-what-can-i-do)
+  - [What are these icons in my inventory / how do I keep track of LotD displays?](#what-are-these-icons-in-my-inventory--how-do-i-keep-track-of-lotd-displays)
+  - [There's a bunch of NPC Replacer mods in MO2 that are disabled. Can I turn them on?](#theres-a-bunch-of-npc-replacer-mods-in-mo2-that-are-disabled-can-i-turn-them-on)
+  - [I don't like the way certain NPCs look. Can I change it?](#i-dont-like-the-way-certain-npcs-look-can-i-change-it)
+  - [I chose a Race other than Deep Elf but I still get the Deep Elf stuff added to my inventory. Why?](#i-chose-a-race-other-than-deep-elf-but-i-still-get-the-deep-elf-stuff-added-to-my-inventory-why)
+  - [Can I disable/edit killmoves?](#can-i-disableedit-killmoves)
+  - [Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?](#claw-weapons-are-really-bad-and-im-having-trouble-hitting-enemies-with-them-what-gives)
+  - [I am experiencing crashes. What do I do?](#i-am-experiencing-crashes-what-do-i-do)
+  - [Lights are flickering while I walk around. Can I fix this?](#lights-are-flickering-while-i-walk-around-can-i-fix-this)
+  - [Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?](#sometimes-i-notice-a-faint-white-glow-around-my-character-usually-around-grass-is-there-a-fix)
+  - [My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?](#my-armor--shield--cape--helmet--beard--etc-is-clipping-can-you-fix-it)
+  - [Can I hide my backpack?](#can-i-hide-my-backpack)
+  - [Everything is too bright, can you make it have some sort of realistic immersive darkness?](#everything-is-too-bright-can-you-make-it-have-some-sort-of-realistic-immersive-darkness)
+  - [Everything is too dark, can I brighten it up somehow?](#everything-is-too-dark-can-i-brighten-it-up-somehow)
+  - [I'm having a hard time finding Spell Tomes. Where are they?](#im-having-a-hard-time-finding-spell-tomes-where-are-they)
+  - [I found an exploit / this armor is way too good / this weapon is too strong. Will you fix it?](#i-found-an-exploit--this-armor-is-way-too-good--this-weapon-is-too-strong-will-you-fix-it)
+  - [I went to Elysium Estate but the ghost isn't there. How do I get the house?](#i-went-to-elysium-estate-but-the-ghost-isnt-there-how-do-i-get-the-house)
+  - [Sprint swimming and getting out of the water makes me swim on land!](#sprint-swimming-and-getting-out-of-the-water-makes-me-swim-on-land)
+  - [Is the world unleveled?](#is-the-world-unleveled)
+  - [Where is Inigo?](#where-is-inigo)
+  - [What ENB is in this list?](#what-enb-is-in-this-list)
+  - [How do I start the Goldenhills Plantation CC stuff?](#how-do-i-start-the-goldenhills-plantation-cc-stuff)
+  - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
 
 
@@ -62,8 +95,6 @@ I have no idea. Apparently it's something to do with MO2, since this isnt list-s
 You can do whatever you want. However, I am under no obligation to help you. This will be considered a violation of Rule 11 of the Discord server, and you will be removed from the official support channel.
 
 Having said that, if you find and report a bug in the list, and you're trying to help fix it - of course I'm happy to listen. Trying to help me fix a bug native to the list does not violate Rule 11. That is a very important distinction to me.
-
----
 
 ### So you won't help me at all?
 
@@ -239,6 +270,6 @@ You need to be level 15, then speak with an innkeeper in either Whiterun or Rori
 
 ---
 
-#### Can I buy you a drink?
+### Can I buy you a drink?
 
 Sure can. I have a [Patreon](https://www.patreon.com/c/nicholasjae) or you can tip me through Venmo (@Nicholas-Jae).
