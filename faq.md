@@ -35,7 +35,7 @@
   - [How do I start the Goldenhills Plantation CC stuff?](#how-do-i-start-the-goldenhills-plantation-cc-stuff)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
-
+---
 
 ### Hotkeys?
 
