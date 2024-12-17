@@ -41,6 +41,8 @@
 
 All default keyboard, mouse, and gamepad bindings are listed in Hotkey Reminder (F11). You can click the buttons to see if there are "combos" as well (for example, click the left trigger on the controller, and it shows you what happens if you were to press Trigger+D-pad buttons in-game). Pretty fancy.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Can I change some bindings?
@@ -49,6 +51,8 @@ Sure. Most are handled by the default settings in the game menu. Dodge is handle
 
 If you want to also change what's listed in the Hotkey Reminder (F11) menu, open the MCM for Hotkey Reminder and disable the lock so you can edit the layout manually.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### My game crashes when I launch from MO2. Help!
@@ -56,6 +60,8 @@ If you want to also change what's listed in the Hotkey Reminder (F11) menu, open
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
 
 The other most common cause is an Antivirus (not Windows Defender; a third party antivirus like Webroot or Kaspersky or [Bitdefender](https://www.bitdefender.com/consumer/support/answer/28557/), etc). Disable those or exclude MO2/scriptextender/etc.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -76,17 +82,23 @@ Note: Wording may not be exact, but should be similar enough.
 
 If this doesn't fix it, you can try editing the SSE Display Tweaks INI under the `Optionals & INI Overrides` section in MO2. It's at the bottom.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### When I close my game, I get strange behavior with my mouse. I can't click on other windows. What's up with that?
 
 I have no idea. Apparently it's something to do with MO2, since this isnt list-specific. Good news, though: there's an easy fix. `Ctrl`+`Alt`+`Delete` and then just cancel out of it. Fixes it right away.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### How do I change my FOV?
 
 `Left Shift + Home` opens the Improved Camera GUI. Navigate through the menus and adjust things to your liking. I would recommend saving your changes to a new profile. Easier that way.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -100,6 +112,8 @@ Having said that, if you find and report a bug in the list, and you're trying to
 
 Man, I'd be glad to teach you some stuff about modding. [I thoroughly enjoy doing so.](https://github.com/LivelyDismay/Learn-To-Mod/wiki) What I don't like is when people demand I add or remove mods *for* them. I want to make MY list, not YOUR list. But if you *actually* want to learn, yeah, I'll help down in the general/social channels, for sure. Unfortunately, a vast majority of people aren't interested in learning, and I've grown rather jaded. Such is life.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### What are the minimum requirements / recommended specs for this list?
@@ -109,6 +123,8 @@ I don't know, and I'll explain why:
 Consider it a decision made for our collective sanity. For example, let's say we advised 6 gigs of vram. Then someone plays with 8 gigs of vram, but complains about only getting 85 fps instead of 200. Their specs aren't good enough...for them. This may sound like a gross exaggeration, but we've literally had people complain about dropping from 60 to 55 fps, so I promise you, that is a realistic scenario.
 
 You'll just have to decide if it runs good enough for you - and if it doesn't, you'll have to make your own tweaks and figure out your own hardware. Sorry, but that's just one of the costs of owning your own PC.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -129,6 +145,8 @@ Instead, switch tabs the Program Settings, and add the Skyrimse.exe or fallout4.
 
 If all of this is still unsatisfactory, then you'll just have to either deal with it or come up with a solution for your own hardware. Sorry, but that's just the way it is. The game is going on 15 years old, there's only so much you can do before the engine just gives up on you.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### What are these icons in my inventory / how do I keep track of LotD displays?
@@ -136,11 +154,15 @@ If all of this is still unsatisfactory, then you'll just have to either deal wit
 ![alt text](https://github.com/LivelyDismay/tempus-maledictum/blob/dd8e06f23d0654a81809df1938bb248b87bb5339/curators%20companion%20icons.png)  
 These icons are very helpful.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### There's a bunch of NPC Replacer mods in MO2 that are disabled. Can I turn them on?
 
 No. They're all part of the EasyNPC output. They're already active in your game. Enabling these individual mods will break your game.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -148,11 +170,15 @@ No. They're all part of the EasyNPC output. They're already active in your game.
 
 Not without rerunning EasyNPC and choosing different replacers. This will violate Rule 11 of the discord, so please do not break that rule.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### I chose a Race other than Deep Elf but I still get the Deep Elf stuff added to my inventory. Why?
 
 Because this mod is really meant to be used by regular mod users. People install it with the intent to use it. Having it in the modlist has adverse effects such as this. You can freely ignore these things, or take advantage of them. Either way, not really a bug, and something you'll have to figure out for yourself in regards to whether or not you want to use it.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -160,11 +186,15 @@ Because this mod is really meant to be used by regular mod users. People install
 
 Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?
 
 I know. They're really bad. They have incredibly short range - especially in first person. This is an issue with Precision. Honestly, I'd strongly urge you to juse use a different weapon type. Grab some claws for the museum and that's about it. Sorry.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -178,11 +208,15 @@ For any other crashes, we'd have to see a crashlog. You can find us over on [Dis
 
 Please remember that this was a very large update that was recently put out, and we are a very small team. The thousands of you will see more of the game in a day than the half dozen of us saw in three months. **I genuinely want to provide the best possible experience for you,** so please feel free to report bugs, and have some patience. We will address any issues when we can.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Lights are flickering while I walk around. Can I fix this?
 
 This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -190,11 +224,15 @@ This is an engine limitation. A mesh can only have a maximum of four directional
 
 Yes and no. This is caused by ENB's Ambient Occlusion. You can turn it off if you want, but this will also make your game look a good bit worse. Your call.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?
 
 No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -202,17 +240,23 @@ No. Unequip/unfavorite one of the items that's clipping, or simply deal with it.
 
 No. The `Hide Backpacks` mod only applies to 3 of the Creation Club backpack variants, not all of them. Like above, unequip it or learn to accept it.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Everything is too bright, can you make it have some sort of *realistic immersive darkness?*
 
 No. It's a video game. I want to see.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Everything is too dark, can I brighten it up somehow?
 
 Shift+Enter to open the ENB GUI. Adjust as you see fit. When you're done, click Save Configuration. Shift+Enter again to close the ENB GUI.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -224,6 +268,8 @@ There are a few other Spellforges in the world as well. Go find them.
 
 You can also still buy Spell Tomes, but the prices for them have been increased by 800%.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### I found an exploit / this armor is way too good / this weapon is too strong. Will you fix it?
@@ -232,11 +278,15 @@ Probably not. It's a single player game. If you think something is too strong, d
 
 Besides, this is an LotD list. There's going to be a lot of overpowered stuff. Get used to it.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### I went to Elysium Estate but the ghost isn't there. How do I get the house?
 
 You have to buy it now. Read the note attached to the front door of the estate.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -244,11 +294,15 @@ You have to buy it now. Read the note attached to the front door of the estate.
 
 Jump. Or stop the sprint-swimming prior to exiting the water.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Is the world unleveled?
 
 No.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -256,11 +310,15 @@ No.
 
 Dead.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### What ENB is in this list?
 
 Imaginarium ENB.
+
+[[Top]](#table-of-contents)
 
 ---
 
@@ -268,8 +326,12 @@ Imaginarium ENB.
 
 You need to be level 15, then speak with an innkeeper in either Whiterun or Rorikstead. They will have a line of dialogue about work in the area.
 
+[[Top]](#table-of-contents)
+
 ---
 
 ### Can I buy you a drink?
 
 Sure can. I have a [Patreon](https://www.patreon.com/c/nicholasjae) or you can tip me through Venmo (@Nicholas-Jae).
+
+[[Top]](#table-of-contents)
