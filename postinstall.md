@@ -34,7 +34,7 @@ You have a Tempus Maledictum Beginner's Guide in your inventory. Please read thi
 
 There is a Spellforge behind you, alongside a chest with some goodies and a Spellforge Manual. This manual, alongside the Beginner's Guide, will help you learn how to use this. You don't have to use this right now; there are more Spellforges in the world if you just want to get started with the game.
 
-When the messages in the top left corner have stopped, speak to the Statue of Mara and choose how you'd like to start the game. Some notable entries:
+When the messages in the top right corner have stopped, speak to the Statue of Mara and choose how you'd like to start the game. Some notable entries:
 
  - **Arrived by ship: Solitude** - gives you the option to kickstart the Legacy of the Dragonborn questline.
  - **Museum Guildmaster** - kickstart the Legacy of the Dragonborn questline in a bit of a different way - this is largely used for returning players that want to skip some of the beginning LotD quests.
