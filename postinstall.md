@@ -28,7 +28,7 @@ The game will launch. **It will probably take a minute or two to load.** Please 
 
 Start a New Game. You'll be in the Abandoned Prison. Create your character - I recommend the [Deep Elf race](https://www.nexusmods.com/skyrimspecialedition/mods/22499). If you don't want to play as a Deep Elf, that's totally fine - all the other races have [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315/) to make them a little more interesting, too. 
 
-When you're done creating your character, you'll have a whole lot of messages scrolling through the top left corner.  **Wait in this cell until the messages stop.**  You'll also get a number of pop-ups. Please read them.
+When you're done creating your character, you'll have a whole lot of messages scrolling through the top right corner.  **Wait in this cell until the messages stop.**  You'll also get a number of pop-ups. Please read them.
 
 You have a Tempus Maledictum Beginner's Guide in your inventory. Please read this.
 
