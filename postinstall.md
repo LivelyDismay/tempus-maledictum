@@ -1,8 +1,14 @@
+### Launching Mod Organizer 2
+
 Remember that installation folder you chose for the modlist when you launched the Wabbajack app? It's when I recommended a blank folder at the root of a drive, such as `D:/Tempus Maledictum`. Pop that guy open.
 
 Scroll down and find `ModOrganizer.exe`. Launch it.
 
 MO2 will open, along with all the mods, plugins, separators, and all that good stuff. **You don't have to do anything here.**
+
+---
+
+### Setting Up Optional Controller, Ultrawide, & Survival Support
 
 If you plan to use a Controller or Gamepad, please scroll to the bottom of the left pane in MO2 and double click the separator that reads `Optional - Revamped Controller Support`. Follow the instructions given there.
 
@@ -11,6 +17,10 @@ If you plan to play Survival Mode, double click the separator that reads `Option
 If you use Ultrawide (21:9 or 32:9), there are some Ultrawide options available. **I do not own Ultrawide and I have not been given an updated guide on Ultrawide support - you will have to do some experimentation here to figure things out for yourself.**
 
 If you want to change the game's resolution, there is a mod called `SSE Display Tweaks INI` in the `Optionals & INI Overrides` section of MO2. You can edit the Custom INI inside of this mod to change your resolution.
+
+---
+
+### Starting a New Game
 
 When you're all set up and ready to go, make sure the top right bar reads `SKSE` and press `Run.`
 
@@ -34,7 +44,9 @@ Of course, you can choose any option that sounds good to you. Some of them will 
 
 Once you choose your start, sleep in the bed to begin the game.
 
-I think that about covers it. Enjoy the game, I hope you have fun, and as always - don't forget to [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md).
+### Please Read the FAQ
+
+No modlist is perfect. Not only that, but there's no way you'll know all of the mods in this list. As such, I urge you to please [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md). A lot of common questions are answered here.
 
 Need to contact me directly? [Find me on Discord](https://discord.gg/yABEjwB).
 
