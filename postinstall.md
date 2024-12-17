@@ -44,6 +44,8 @@ Of course, you can choose any option that sounds good to you. Some of them will 
 
 Once you choose your start, sleep in the bed to begin the game.
 
+---
+
 ### Please Read the FAQ
 
 No modlist is perfect. Not only that, but there's no way you'll know all of the mods in this list. As such, I urge you to please [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md). A lot of common questions are answered here.
