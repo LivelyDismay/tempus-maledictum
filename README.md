@@ -121,6 +121,10 @@ Set the `Installation Location` to a blank folder at the root of a drive, such a
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
+Once Wabbajack turns green and says `Installation Complete`, please [move on to the Post Installation section.](https://github.com/LivelyDismay/tempus-maledictum/blob/main/postinstall.md)
+
+If Wabbajack turns red and says `Installation Failed`, please keep reading.
+
 ---
 
 ### Problems with Wabbajack
