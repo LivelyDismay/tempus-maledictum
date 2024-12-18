@@ -21,6 +21,7 @@ Version 7.1.1
 - Renamed Display Tweaks INI in Overrides to have the `_Custom` suffix.
 - Moved `Survival Mode INI - Enabled` mod to the Optionals section. I think people are more likely to see it here.
 - Inlined a preset from Rose upon request.
+- Enabled achievements.
 
 ---
 
