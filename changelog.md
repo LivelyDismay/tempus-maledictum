@@ -1,3 +1,28 @@
+2024/12/18
+
+Version 7.1.2
+
+**UPDATED**
+- More Informative Console.
+- Spell Perk Item Distributor.
+- Summermyst - Enchantments of Skyrim.
+- Splashes of Storms.
+- Object Categorization Framework.
+- B.O.O.B.I.E.S (aka Immersive Icons).
+- Crash Logger SSE VR.
+
+**ADDED**
+- Keyword Patch Collection.
+
+**REMOVED**
+- Skyrim Priority.
+
+Disabled SSE Display Tweaks INI in Overrides.
+
+Kinda caught me mid-work so you get like...a half of an update. Sorry. That Priority thing just gotta go, I thought I deleted it a long time ago anyway.
+
+---
+
 2024/12/17
 
 Version 7.1.1
