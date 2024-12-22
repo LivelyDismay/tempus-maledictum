@@ -1,8 +1,17 @@
 2024/12/22
 
+Version 7.2.1
+
+Removed Auri AI Dismount Fix.
+Removed Auri - Thistlefoot Should Stay Outdoors.
+
+---
+
+2024/12/22
+
 Version 7.2.0
 
-New save required.
+New save required.☺
 
 **UPDATED**
 - Song of the Green - Auri Follower.
