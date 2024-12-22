@@ -1,3 +1,52 @@
+2024/12/22
+
+Version 7.2.0
+
+New save required.
+
+**UPDATED**
+- Song of the Green - Auri Follower.
+- Dragons Use Thu'um.  
+- Landscapes - Cathedral Concept.
+- Sacrosanct - Vampires of Skyrim.
+- DynDOLOD DLL NG.
+- DynDOLOD 3 Alpha.
+- DynDOLOD Resources SE 3.
+- Skyrim Landscape and Water Fixes.
+- VIGILANT SE.
+- VIGILANT Voiced - English Addon.
+- No Grass In Objects.
+- The Great Village of Kynesgrove Patch Collection.
+- Summermyst - Enchantments of Skyrim.
+
+**ADDED**
+- Armory of the Dragon Cult.  
+- TUDM Script Fixes.  
+- Dragon Priests Retexture SE.
+- Armory of the Dragon Cult - Unofficial LOTD Patch.
+- Grass Cache Helper NG.
+
+**REMOVED**
+- Konahriik's Accoutrements, and all associated patches.
+
+**FIXED**
+- Disappearing crosshair after sneaking.  
+- Doubled doors in Dawnstar's Jarl's palace.  
+- Breezehome Aids can no longer acquire homes other than Breezehome (you shouldn't be using this book anyway, really).
+- Black screens/freezes on specific cell transitions.
+- Black face bugs on Kynesgrove children.
+- Deeja's immortality.
+- Remi's dialogue for her intro quest.
+- Missing wall in High Gate Ruins.
+- Orpheus intro not progressing if choosing vampire start in ASLAL.
+
+**NOTES**
+- New Dyndolod, Texgen, Lodgen outputs.  
+- New Grass cache.  
+- This version will be more performance heavy. The cost of stability, I guess.
+
+---
+
 2024/12/18
 
 Version 7.1.2
