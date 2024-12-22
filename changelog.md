@@ -2,7 +2,7 @@
 
 Version 7.2.1
 
-Removed Auri AI Dismount Fix.
+Removed Auri AI Dismount Fix.  
 Removed Auri - Thistlefoot Should Stay Outdoors.
 
 ---
