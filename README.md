@@ -167,7 +167,7 @@ This section [has been moved to its own page, just to really make it stand out i
 ## Controller Support
 
 At the bottom of MO2, there is a separator named `Optional - Controller Support`. Enable this prior to launching SKSE and starting your game.  
-If you already started your save prior to enabling this mod: exit the game, enable the optional controller support mod, launch the game, then open your MCM menus, scroll down to MCM Recorder, and run the Tempus v5 recording again.  
+If you already started your save prior to enabling this mod: exit the game, enable the optional controller support mod, launch the game, then open your MCM menus, scroll down to MCM Recorder, and run the MCM Recording for controller support.  
 
 ---
 
