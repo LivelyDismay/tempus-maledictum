@@ -1,5 +1,17 @@
 2024/12/22
 
+7.3.0
+
+- Included Synthesis outputs in the Wabbajack compile because I forgot.
+
+Let's just pretend like 7.2.x never happened because I'm so fucking tired and depressed that I can barely handle this.
+
+Just start a new save, it's been like 15 minutes, I'm sorry I suck at this.
+
+---
+
+2024/12/22
+
 Version 7.2.1
 
 Removed Auri AI Dismount Fix.  
