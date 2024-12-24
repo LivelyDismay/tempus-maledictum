@@ -1,6 +1,27 @@
+2024/12/24
+
+Version 7.3.1
+
+**ADDED**
+- RS Children - Stonehills.
+- Cloth Mannequins
+- Cloth Mannequins for Legacy of the Dragonborn
+- Lush Lavender
+- Rally's Barsets
+- The Great Cities of Winterhold - RS Children Patch.
+
+**NOTES**
+- Various fixes and script optimizations (thanks to ItsAlways710).
+- Disabled two vines in Ivarstead that were blocking Gwilin on the bridge (aesthetic only).
+- Fixed issue with Greybeard Mantle reducing shout cooldown by 20 instead of 0.2.
+
+On a slightly more personal note, I just wanted to say thanks to ItsAlways710. For the unaware, he is responsible for overhauling Tempus' visuals, as well as creating [Handy Crafting & Storage](https://www.nexusmods.com/skyrimspecialedition/mods/59258), and providing various script fixes for things like Xelzaz and our Bestiary Alchemy Add-on. Please give him a little thank you, because god knows I don't do it enough.
+
+---
+
 2024/12/22
 
-7.3.0
+Version 7.3.0
 
 - Included Synthesis outputs in the Wabbajack compile because I forgot.
 
