@@ -41,6 +41,8 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
 
 Is Tempus for you? I don't know. [Maybe this video will help!](https://youtu.be/0JdHOEu3yTM)
 
+I also stream on [Twitch](https://www.twitch.tv/livelynj/) sometimes.
+
 **Please read this readme in its entirety.**
 
 **Please [read the FAQ](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) again before reporting an issue or asking me a question.**
