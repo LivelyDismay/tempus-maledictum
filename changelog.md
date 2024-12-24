@@ -1,5 +1,18 @@
 2024/12/24
 
+Version 7.3.2
+
+Disabled CK Source Scripts.
+
+Please note: you do NOT want this. It overwrites all other scripts in your game, and is only for me to use when working in the Creation Kit.  
+If you installed this on an existing 7.3.0 save, **revert back to a save prior to updating to 7.3.1.** This version (7.3.2) is fully compatible with saves from 7.3.0.
+
+Apologies for the inconvenience.
+
+---
+
+2024/12/24
+
 Version 7.3.1
 
 **ADDED**
