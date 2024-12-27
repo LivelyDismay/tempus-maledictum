@@ -1,3 +1,25 @@
+2024/12/27
+
+Version 7.3.3
+
+**UPDATED**
+- Handy Crafting and Spells.
+- Handy Crafting Patches.
+- Next Gen Decapitations.
+- The Dragonborn's Bestiary - Lively's Alchemy Addon.
+- Skyrim Script Extender.
+
+Inlined a preset from Avi that I kept forgetting to move into the Presets folder. My bad.  
+
+Inlined a SkyHUD INI to fix the crosshair placement for Ultrawide users. This section will receive more updates as I am spoonfed more information from Ultrawide users.  
+
+This update should resolve issues with bonus carry weight being stuck when exiting the DBM museum/player homes.  
+SKSE isn't exactly "updated" but the download source has been changed from the SKSE website to Nexus. This will allow Ian to get more DP (which he deserves for his years and years of support for the community).
+
+Special thanks to ItsAlways710 for putting up with my bullshit, optimizing Alchemy Addon's scripting functionality, and for making the HCaS optional File for disabling auto learn during store.
+
+---
+
 2024/12/24
 
 Version 7.3.2
@@ -17,10 +39,10 @@ Version 7.3.1
 
 **ADDED**
 - RS Children - Stonehills.
-- Cloth Mannequins
-- Cloth Mannequins for Legacy of the Dragonborn
-- Lush Lavender
-- Rally's Barsets
+- Cloth Mannequins.
+- Cloth Mannequins for Legacy of the Dragonborn.
+- Lush Lavender.
+- Rally's Barsets.
 - The Great Cities of Winterhold - RS Children Patch.
 
 **NOTES**
