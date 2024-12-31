@@ -1,3 +1,35 @@
+2024/12/31
+
+Version 7.3.4
+
+Happy New Year!
+
+**UPDATED**
+- HCaS Fish Anywhere Patch.
+
+**ADDED**
+- Majestic Mountains - Bloodchill Manor Patch AE.
+- Valhalla Combat - Backstab Bug Fix.
+- Widescreen Scale Removed for 1-6-1130 and higher.
+- Edge UI C.O.C.K.S 21-9 fix
+
+
+**REMOVED**
+- Grab and Throw.
+
+**NOTES**
+- Fixed an issue where Deep Elf characters weren't given a starting Smithing perk. If you are playing a Deep Elf character, you will be prompted to choose which perk you'd like when you load into your save.
+- Hid a file from Edge UI (statsmenu.swf) that was causing the text on Perk descriptions to be too small for people's liking.
+- Several people are working very hard on Ultrawide compatibility. To that end, I have added two Ultrawide-related mods, but have NOT removed any others, as I am currently unsure of which files actually need to be here. If you require assistance with this, please check in with the Discord. 
+
+Special thanks to ChurchofKenny, Dace, StonyMason, and a few others for all their help with the Ultrawide section.
+
+I also want to add a note that I've noticed an influx of people reporting and troubleshooting issues, most notably Delth. I just want you all to know that this is very much appreciated. These are largely small things, but the small things are what make a list - and a community - truly great. While these issues are not fixed in this version, I do plan to do some testing on my end so I can address these things properly. It can be hard for me to fix stuff that I haven't seen first-hand, that's all. Just don't want you to think I'm ignoring you all. This may not be the most popular list, but it is the best, and that's all that matters.
+
+Thanks. Enjoy.
+
+---
+
 2024/12/27
 
 Version 7.3.3
