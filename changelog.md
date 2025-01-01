@@ -1,5 +1,13 @@
 2025/01/01
 
+Version 7.3.6
+
+Disabled optional SSE Display Tweaks INI.
+
+---
+
+2025/01/01
+
 Version 7.3.5
 
 Reverted ENB changes from 7.3.4.
