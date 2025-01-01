@@ -1,3 +1,11 @@
+2025/01/01
+
+Version 7.3.5
+
+Reverted ENB changes from 7.3.4.
+
+---
+
 2024/12/31
 
 Version 7.3.4
@@ -20,7 +28,8 @@ Happy New Year!
 **NOTES**
 - Fixed an issue where Deep Elf characters weren't given a starting Smithing perk. If you are playing a Deep Elf character, you will be prompted to choose which perk you'd like when you load into your save.
 - Hid a file from Edge UI (statsmenu.swf) that was causing the text on Perk descriptions to be too small for people's liking.
-- Several people are working very hard on Ultrawide compatibility. To that end, I have added two Ultrawide-related mods, but have NOT removed any others, as I am currently unsure of which files actually need to be here. If you require assistance with this, please check in with the Discord. 
+- Several people are working very hard on Ultrawide compatibility. To that end, I have added two Ultrawide-related mods, but have NOT removed any others, as I am currently unsure of which files actually need to be here. If you require assistance with this, please check in with the Discord.
+- Edited some ENB settings for rain.
 
 Special thanks to ChurchofKenny, Dace, StonyMason, and a few others for all their help with the Ultrawide section.
 
