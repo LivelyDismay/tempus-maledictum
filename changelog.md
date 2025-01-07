@@ -1,5 +1,13 @@
 2025/01/06
 
+Version 7.4.1
+
+All that work and I forgot to include the new spellforge library in wj's settings.
+
+---
+
+2025/01/06
+
 Version 7.4.0
 
 **UPDATED**
