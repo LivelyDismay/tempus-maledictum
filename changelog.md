@@ -4,6 +4,8 @@ Version 7.4.1
 
 All that work and I forgot to include the new spellforge library in wj's settings.
 
+You can use the same save, just use the Import Spells function from the Spellforge Manual to update the list if you started on 7.4.0 already.
+
 ---
 
 2025/01/06
