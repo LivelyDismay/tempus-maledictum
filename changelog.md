@@ -1,3 +1,46 @@
+2025/01/06
+
+Version 7.4.0
+
+**UPDATED**
+- eeekie's Orpheus - visual overhaul.
+- Marked Treasure SSE (NG).
+- Legacy of the Dragonborn - Follower Room Patches.
+- PhotoMode.
+- Legacy of the Dragonborn SSE.
+- Legacy of the Dragonborn Patches (Official).
+- Val Serano.
+- Legacy of the Dragonborn SSE - The Curators Companion.
+
+**ADDED**
+- Simply Order Summons - No Dialogue Menu Patch.
+- Ultimate Animated Potions NG - ElSopa - Potions Redone patch.
+- No Furniture Camera.
+- Xelzaz Sirenroot Patch.
+- Val Serano - Velehk Sain Patch.
+- HDT-SMP Spell Knight Armor Patch.
+
+**REMOVED**
+- Next-Gen Decapitations.
+- Mihail's CC Zombies Overhaul.
+- College of Winterhold - Quest Expansion.
+
+**NOTES**
+- New Synthesis Outputs.
+- New EasyNPC Output.
+- Should fix crash on load issues (again). I tested this for quite a bit myself. Next-Gen Decapitations won't be making a comeback, sadly.
+- Removed some older/outdated patches that were doing precisely nothing.
+- Fixed four trees. Wow.
+- Spellforge lists should now be perfect. This took me roughly six hours. It was miserable.
+- Re-enabled a few Spell Tomes, such as Frostbite & Flames for the focusing crystal quest that I forgot the name of.
+- Some new Loot rules.
+- Fixed some armor equip displays (most notably Dragon Priest Masks).
+- Added Xelzaz to NFF Default Exclusion List.
+- Added fix for Clavicus Vile. If you are pursuing both There Is No Umbra alongside Barbas' quest, you need to finish the deal with Daumbra before Clavicus will have the dialogue to complete Barbas' quest. Such is life.
+- Removed Soul Harvest from Odin, to prevent confusion with Soul Harvest from Practical Necromancy.
+
+---
+
 2025/01/01
 
 Version 7.3.6
