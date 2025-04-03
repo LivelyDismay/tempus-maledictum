@@ -19,7 +19,6 @@
   - [Can I disable/edit killmoves?](#can-i-disableedit-killmoves)
   - [Claw weapons are really bad and I'm having trouble hitting enemies with them. What gives?](#claw-weapons-are-really-bad-and-im-having-trouble-hitting-enemies-with-them-what-gives)
   - [I am experiencing crashes. What do I do?](#i-am-experiencing-crashes-what-do-i-do)
-  - [Lights are flickering while I walk around. Can I fix this?](#lights-are-flickering-while-i-walk-around-can-i-fix-this)
   - [Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?](#sometimes-i-notice-a-faint-white-glow-around-my-character-usually-around-grass-is-there-a-fix)
   - [My armor / shield / cape / helmet / beard / etc is clipping! Can you fix it?](#my-armor--shield--cape--helmet--beard--etc-is-clipping-can-you-fix-it)
   - [Can I hide my backpack?](#can-i-hide-my-backpack)
@@ -31,7 +30,6 @@
   - [Sprint swimming and getting out of the water makes me swim on land!](#sprint-swimming-and-getting-out-of-the-water-makes-me-swim-on-land)
   - [Is the world unleveled?](#is-the-world-unleveled)
   - [Where is Inigo?](#where-is-inigo)
-  - [What ENB is in this list?](#what-enb-is-in-this-list)
   - [How do I start the Goldenhills Plantation CC stuff?](#how-do-i-start-the-goldenhills-plantation-cc-stuff)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
@@ -47,7 +45,17 @@ All default keyboard, mouse, and gamepad bindings are listed in Hotkey Reminder 
 
 ### Can I change some bindings?
 
-Sure. Most are handled by the default settings in the game menu. Dodge is handled by The Ultimate Dodge Mod MCM, where the dodge key is the vanilla Sneak key (in the vanilla game menu key bindings) while the Sneak key is set in the MCM. Dual wield block is handled by an INI which must be changed manually, in the Dual Wield Block INI. Do note that INIs cannot be changed in-game; you have to exit the game to edit this binding.
+Sure. Most are handled by the default settings in the game menu. Dual wield block is handled by an INI which must be changed manually, in the Dual Wield Block INI. Do note that INIs cannot be changed in-game; you have to exit the game to edit this binding.
+
+Combat is a little more complex. The current set-up is as follows:
+- Left Click: Attack
+- Right Click: Block
+- Mouse4 (side button): Power Attack
+- Left Alt: Dodge
+
+You can block/timed block/dodge in the middle of regular attacks. You can use dozens of different combos based on your pattern of regular attacks and power attacks. Some weapons even allow for charged attacks (holding S while holding Power Attack). Play around, see what you like.
+
+Some animation movesets are only available for specific NPCs, factions, or unlocked with specific perks. The mod names in MO2 help explain when certain movesets are used, and by whom. Or just discover things naturally - probably more fun that way anyway, in my opinion.
 
 If you want to also change what's listed in the Hotkey Reminder (F11) menu, open the MCM for Hotkey Reminder and disable the lock so you can edit the layout manually.
 
@@ -130,12 +138,10 @@ You'll just have to decide if it runs good enough for you - and if it doesn't, y
 
 ### I'm having low FPS / I am not happy with my performance. What can I do?
 
-For starters, most of these reports are from people that JUST booted up the game. Here are a few tips:
-
 - Riverwood and Whiterun are pretty heavy areas. Some dips are to be expected. Try exploring a bit further to see if your issues are only in those areas.  
-- Increase your pagefile size.  
-- Press `Shift+Enter` to open the ENB GUI, and disable the Ambient Occlusion option (it's under the Global settings).  
-- If that is still unsatisfactory, disable the ENB entirely (Shift+f12, or uncheck the Use Effect box in the ENB GUI).  
+- Press Numpad* to disable Community Shaders.
+
+This likely won't help much, as performance is drained more by draw calls than lighting. For the unaware: draw calls are the number of objects rendered on screen at any given time. So, things like city overhauls are far more performance-intensive than lighting and shadows. These mods are NOT easily removed, and will invalide official support.
 
 If you are on a laptop:
 
@@ -168,7 +174,7 @@ No. They're all part of the EasyNPC output. They're already active in your game.
 
 ### I don't like the way certain NPCs look. Can I change it?
 
-Not without rerunning EasyNPC and choosing different replacers. This will violate Rule 11 of the discord, so please do not break that rule.
+Not without rerunning EasyNPC and choosing different replacers. This will invalidate official support, so please do not break that rule, or keep it in the rule-11 channels on discord.
 
 [[Top]](#table-of-contents)
 
@@ -212,17 +218,9 @@ Please remember that this was a very large update that was recently put out, and
 
 ---
 
-### Lights are flickering while I walk around. Can I fix this?
-
-This is an engine limitation. A mesh can only have a maximum of four directional lights casting on it at any given time. If you see flickering lights, you almost definitely have a torch out or you have QuickLight active (you can toggle QuickLight on/off with `L`).
-
-[[Top]](#table-of-contents)
-
----
-
 ### Sometimes I notice a faint white glow around my character, usually around grass. Is there a fix?
 
-Yes and no. This is caused by ENB's Ambient Occlusion. You can turn it off if you want, but this will also make your game look a good bit worse. Your call.
+Yes and no. This is caused by Ambient Occlusion. You can turn it off if you want, but this will also make your game look a lot worse. Your call.
 
 [[Top]](#table-of-contents)
 
@@ -254,7 +252,7 @@ No. It's a video game. I want to see.
 
 ### Everything is too dark, can I brighten it up somehow?
 
-Shift+Enter to open the ENB GUI. Adjust as you see fit. When you're done, click Save Configuration. Shift+Enter again to close the ENB GUI.
+'End' opens up the Community Shaders GUI. Adjust things as you like.
 
 [[Top]](#table-of-contents)
 
@@ -309,14 +307,6 @@ No.
 ### Where is Inigo?
 
 Dead.
-
-[[Top]](#table-of-contents)
-
----
-
-### What ENB is in this list?
-
-Imaginarium ENB.
 
 [[Top]](#table-of-contents)
 
