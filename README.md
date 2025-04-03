@@ -168,21 +168,19 @@ This section [has been moved to its own page, just to really make it stand out i
 
 ## Controller Support
 
-At the bottom of MO2, there is a separator named `Optional - Controller Support`. Enable this prior to launching SKSE and starting your game.  
-If you already started your save prior to enabling this mod: exit the game, enable the optional controller support mod, launch the game, then open your MCM menus, scroll down to MCM Recorder, and run the MCM Recording for controller support.  
+I don't play with a Controller. If someone wants to set up a Controller config, I'd be more than happy to include it in the modlist and post it here. Until then, you're on your own. Sorry.
 
 ---
 
 ## Ultrawide Support
 
-At the bottom of MO2, there is a separator named `Optional - Ultrawide Support`. Enable all mods in this section prior to launching SKSE through MO2 and playing your game.  
+I do not own an Ultrawide monitor. There are some mods in a separator in MO2 that *might* help you, but I really don't know for sure. Just like above, I'm happy to post/include any guide for this, but until then, you're on your own. Sorry.
 
 ---
 
 ## FAQ
 
 [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
-
 
 ---
 
