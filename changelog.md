@@ -1,3 +1,46 @@
+2025/04/03
+
+Version 8.0.0
+
+Welcome to the new Tempus Maledictum. There are so many changes that a full changelog would probably be a thousand lines long, if not more. So let's just cover the hits.
+
+**ADDED**
+
+- BFCO
+- Hundreds of new combat animations
+- Community Shaders
+- Reshade
+- SCAR
+- Lux
+- Lux Via
+- Lux Orbis
+- Missives
+- Nature of the Wildlands
+- Fortified Morthal
+- Wait Your Turn - Enemy Circling Behavior
+- Celestine
+- Melana the War Maiden - An Evolving Custom Voiced Follower
+- No Loading in the Thieves Guild
+- The Ratway Passages
+- Fortified Whiterun
+- JK's Whiterun Outskirts
+- Archery Locational Damage
+
+**REMOVED**
+
+- ENB, and all related ENB files
+- Traverse the Ulvenwald
+- Redbag's Solitude
+- NPCs React To Necromancy
+- Darkend
+- The Great Village of Kynesgrove
+
+Honestly I can't remember most of what I removed. Focus on the new stuff!
+
+Enjoy the list, and remember: this is literally my full-time gig now, so if you like what you see, please [consider supporting me on Patreon](https://www.patreon.com/c/nicholasjae). Thanks!
+
+---
+
 2025/01/06
 
 Version 7.4.1
