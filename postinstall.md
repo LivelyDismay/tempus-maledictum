@@ -10,13 +10,9 @@ MO2 will open, along with all the mods, plugins, separators, and all that good s
 
 ### Setting Up Optional Controller, Ultrawide, & Survival Support
 
-If you plan to use a Controller or Gamepad, please scroll to the bottom of the left pane in MO2 and double click the separator that reads `Optional - Revamped Controller Support`. Follow the instructions given there.
-
 If you plan to play Survival Mode, double click the separator that reads `Optionals & INI Overrides`, then enable the `Survival Mode INI - Enabled` mod.
 
-If you use Ultrawide (21:9 or 32:9), there are some Ultrawide options available. **I do not own Ultrawide and I have not been given an updated guide on Ultrawide support - you will have to do some experimentation here to figure things out for yourself.**
-
-If you want to change the game's resolution, there is a mod called `SSE Display Tweaks INI` in the `Optionals & INI Overrides` section of MO2. You can edit the Custom INI inside of this mod to change your resolution.
+I don't use a controller or own Ultrawide. If someone wants to write up guides/configs on these things that are known to work, I'm happy to include them here. Until then, I'm sorry to say you're on your own.
 
 ---
 
@@ -41,6 +37,8 @@ When the messages in the top right corner have stopped, speak to the Statue of M
  - **Camping in the Woods** - start at a campsite outside of Helgen. Basically the vanilla intro but without all the jank.
 
 Of course, you can choose any option that sounds good to you. Some of them will be a lot harder than others, so consider yourself warned.
+
+You may also notice two starts are missing: the vanilla start and the Vampire Lord start. The vanilla start is quite buggy in a heavily modded set-up, as the entire scene is scripted and prone to issues. The Vampire Lord start *can* still be played via the Surprise Me option, but your spells won't work in VL form until you save/load the game. I think this is a shitty way for players to start the game (encountering a bug right away) so I've opted to yeet it from the list of selections.
 
 Once you choose your start, sleep in the bed to begin the game.
 
