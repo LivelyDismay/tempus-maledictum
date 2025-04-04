@@ -10,6 +10,7 @@ Minor bug fixes found on stream.
 - Downgraded Dwemer Pipework Reworked from v5 to v4 (helps alleviate crash issues in Dumzbthar).
 - Flagged original Tempus Main Menu replacer as Always Enabled (disabled by default due to people thinking it's a virus but it's amazing so you should turn it on).
 - Hid statsmenu.swf from EdgeUI (perk chart text will now be in the style of Untarnished). 
+- Disabled Immersive Weapon Switch (weird UI stuff I don't feel like dealing with).
 
 ---
 
