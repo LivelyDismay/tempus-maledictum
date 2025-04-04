@@ -1,5 +1,19 @@
 2025/04/03
 
+Version 8.0.1
+
+Minor bug fixes found on stream.
+
+- Fixed 11 tree placements (some moved, some disabled).
+- Fixed horse stables in Whiterun outskirts (moved down -60 units on z axis).
+- Fixed vanilla iron helmet (12e4d) model (bad file path due to old patch from smp stuff).
+- Downgraded Dwemer Pipework Reworked from v5 to v4 (helps alleviate crash issues in Dumzbthar).
+- Flagged original Tempus Main Menu replacer as Always Enabled (disabled by default due to people thinking it's a virus but it's amazing so you should turn it on).
+
+---
+
+2025/04/03
+
 Version 8.0.0
 
 Welcome to the new Tempus Maledictum. There are so many changes that a full changelog would probably be a thousand lines long, if not more. So let's just cover the hits.
