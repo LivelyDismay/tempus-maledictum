@@ -9,6 +9,7 @@ Minor bug fixes found on stream.
 - Fixed vanilla iron helmet (12e4d) model (bad file path due to old patch from smp stuff).
 - Downgraded Dwemer Pipework Reworked from v5 to v4 (helps alleviate crash issues in Dumzbthar).
 - Flagged original Tempus Main Menu replacer as Always Enabled (disabled by default due to people thinking it's a virus but it's amazing so you should turn it on).
+- Hid statsmenu.swf from EdgeUI (perk chart text will now be in the style of Untarnished). 
 
 ---
 
