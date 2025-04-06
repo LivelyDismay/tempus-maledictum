@@ -4,7 +4,7 @@ Version 8.0.2
 
 - Deleted 18 trees.
 - Fixed Better Bridges/Lux/CFTO dock in Cell -5, -14.
-- Fixed Better Bridges/LuxVvia area in Cell 21,-2.
+- Fixed Better Bridges/Lux Via area in Cell 21,-2.
 - Fixed Old Hroldan Inn interior.
 - New Synthesis-NPCs plugin to remove effect shader overrides from Imperious.
 - New patches for Headhunter and Missives.
