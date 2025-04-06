@@ -1,3 +1,26 @@
+WIP
+
+Version 8.0.2
+
+- Deleted 18 trees.
+- Fixed Better Bridges/Lux/CFTO dock in Cell -5, -14.
+- Fixed Better Bridges/LuxVvia area in Cell 21,-2.
+- Fixed Old Hroldan Inn interior.
+- New Synthesis-NPCs plugin to remove effect shader overrides from Imperious.
+- New patches for Headhunter and Missives.
+  - *Note: Made the Headhunter-LeveledRewards plugin full ITMs to prevent unwanted changes and to also prevent people from having missing plugins when loading saves. This will be removed on the next save-breaking update, whenever that may be.*
+- New Synthesis-Fixes plugin.
+- Edited perk description for Denting Blows to specify blunt weapon types (maces and whips).
+- Edit spear animation moveset priorities to address spears using 1H sword animations.
+- Added celestine to NFF Exclusion Formlist INI.
+- Updated Celestine to v2.6 (with Vigilant commentary).
+  - *Note: you won't get the full experience of this if you've already done Vigilant.*
+- Added LotD Window Fix.
+- Fixed messed up textures on specific dwemer walls (hid file DweHallLg2Way01.nif from LotD Patches mod).
+  - *Note to self & rule-11 people: when reinstalling LotD Patches Official, do not select Missives, Artificer, or Dwemer Pipeworks Reworked. They're all handled in our own way, and we do not need the LotD patch versions.*
+
+---
+
 2025/04/03
 
 Version 8.0.1
