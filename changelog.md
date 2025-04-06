@@ -12,7 +12,7 @@ Version 8.0.2
 - New Synthesis-Fixes plugin.
 - Edited perk description for Denting Blows to specify blunt weapon types (maces and whips).
 - Edit spear animation moveset priorities to address spears using 1H sword animations.
-- Added celestine to NFF Exclusion Formlist INI.
+- Added Celestine to NFF Exclusion Formlist INI.
 - Updated Celestine to v2.6 (with Vigilant commentary).
   - *Note: you won't get the full experience of this if you've already done Vigilant.*
 - Added LotD Window Fix.
