@@ -1,4 +1,4 @@
-WIP
+2025/04/07
 
 Version 8.0.2
 
@@ -21,6 +21,7 @@ Version 8.0.2
 - Fixed two floating trees in the Marshlands (Wartortle).
 - Fixed single pass snow shader on Folgunthur (Wartortle).
 - Fixed burnt down shack from Lux Via in cell -14, 27 (rotated and moved chest, four lanterns, bag, two safes, and a note to align with the floorboards properly; moved note on top of safe).
+- Edited Hotkey Reminder to show the correct binding for RDO's Stop Combat hotkey (Numpad+).
 
 ---
 
