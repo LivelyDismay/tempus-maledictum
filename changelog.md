@@ -18,6 +18,9 @@ Version 8.0.2
 - Added LotD Window Fix.
 - Fixed messed up textures on specific dwemer walls (hid file DweHallLg2Way01.nif from LotD Patches mod).
   - *Note to self & rule-11 people: when reinstalling LotD Patches Official, do not select Missives, Artificer, or Dwemer Pipeworks Reworked. They're all handled in our own way, and we do not need the LotD patch versions.*
+- Fixed two floating trees in the Marshlands (Wartortle).
+- Fixed single pass snow shader on Folgunthur (Wartortle).
+- Fixed burnt down shack from Lux Via in cell -14, 27 (rotated and moved chest, four lanterns, bag, two safes, and a note to align with the floorboards properly; moved note on top of safe).
 
 ---
 
