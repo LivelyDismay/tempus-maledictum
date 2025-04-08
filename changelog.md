@@ -1,3 +1,11 @@
+WIP
+
+- Deleted 2 trees and a tree stump.
+- Deleted a tankard.
+- Fixed markdown errors in Blue Dartwing and Bleeding Crown bestiary entries.
+
+---
+
 2025/04/07
 
 Version 8.0.2
