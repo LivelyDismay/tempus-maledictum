@@ -3,8 +3,8 @@ WIP
 - Deleted 2 trees and a tree stump.
 - Deleted a tankard.
 - Fixed markdown errors in Blue Dartwing and Bleeding Crown bestiary entries.
-- Added Vlindrel Hall - Mystic Condensor Patch (710).
-- Added Vlindrel Hall - Distinct Interiors Patch (710).
+- Added Vlindrel Hall - Mystic Condensor Patch (710). Patch added to Loot Group `WTPatches`.
+- Added Vlindrel Hall - Distinct Interiors Patch (710). Patch added to Loot Group `WTPatches`.
 - Fixed floating fire in MarkarthExterior01 (`Liv_MarkarthEntrance_Fixes`).
   - Added `Liv_MarkarthEntrance_Fixes` to LivPatches Loot Group.
 - Fixed two misaligned objects in MarkarthExterior01 (`Liv_MarkarthEntrance_Fixes`).
