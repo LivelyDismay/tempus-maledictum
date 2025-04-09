@@ -180,12 +180,12 @@ I do not own an Ultrawide monitor. There are some mods in a separator in MO2 tha
 
 ## FAQ
 
-[I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+[I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/tempus-maledictum/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/livelymods) if you need further assistance.
 
 ---
 
 ## Contact
 
-I'm always available on [my own personal Discord Server](https://discord.gg/yABEjwB).
+I'm always available on [my own personal Discord Server](https://discord.gg/livelymods).
 
 
