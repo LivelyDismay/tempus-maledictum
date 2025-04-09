@@ -6,6 +6,7 @@ WIP
 - Added Vlindrel Hall - Mystic Condensor Patch (710).
 - Added Vlindrel Hall - Distinct Interiors Patch (710).
 - Fixed floating fire in MarkarthExterior01 (`Liv_MarkarthEntrance_Fixes`).
+  - Added `Liv_MarkarthEntrance_Fixes` to LivPatches Loot Group.
 - Fixed two misaligned objects in MarkarthExterior01 (`Liv_MarkarthEntrance_Fixes`).
 - Fixed a small gap in a wall in SalvisFarmExterior01 (`Liv_MarkarthEntrance_Fixes`).
 - Moved Aleksey's Key to be more easily obtainable and hopefully prevent people from saying it's sunken into a chest (fix merged into `Lively's Tweaks`).
