@@ -12,6 +12,7 @@ WIP
 - Moved Aleksey's Key to be more easily obtainable and hopefully prevent people from saying it's sunken into a chest (fix merged into `Lively's Tweaks`).
 - Fixed landscape gap near Rorikstead (New Loot rule: `Redbeg's Rorikstead` - Load After `Landscape and Water Fixes - Patch - Farming`).
   - This leaves some floating grass where the gap was. Will have to rerun Grass Cache later.
+- Fixed `RockCliff08.nif` having a darker blue texture than all other snow-covered terrain pieces.
 
 ---
 
