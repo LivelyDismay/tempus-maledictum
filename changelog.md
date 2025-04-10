@@ -1,6 +1,6 @@
 WIP
 
-- Deleted 2 trees and a tree stump.
+- Deleted 4 trees and a tree stump.
 - Deleted a tankard.
 - Fixed markdown errors in Blue Dartwing and Bleeding Crown bestiary entries.
 - Added Vlindrel Hall - Mystic Condensor Patch (710). Patch added to Loot Group `WTPatches`.
