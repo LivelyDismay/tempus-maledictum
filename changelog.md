@@ -13,6 +13,8 @@ WIP
 - Fixed landscape gap near Rorikstead (New Loot rule: `Redbeg's Rorikstead` - Load After `Landscape and Water Fixes - Patch - Farming`).
   - This leaves some floating grass where the gap was. Will have to rerun Grass Cache later.
 - Fixed `RockCliff08.nif` having a darker blue texture than all other snow-covered terrain pieces.
+- New EasyNPC Output.
+- New Synthesis Outputs (all).
 
 ---
 
