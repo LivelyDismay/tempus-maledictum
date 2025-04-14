@@ -190,7 +190,7 @@ Because this mod is really meant to be used by regular mod users. People install
 
 ### Can I disable/edit killmoves?
 
-Press F6 to open the CatHub/Kaputt GUI. Change to your liking.
+No.
 
 [[Top]](#table-of-contents)
 
