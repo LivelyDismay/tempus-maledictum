@@ -6,11 +6,15 @@ Scroll down and find `ModOrganizer.exe`. Launch it.
 
 MO2 will open, along with all the mods, plugins, separators, and all that good stuff. **You don't have to do anything here.**
 
+**OPTIONAL:** If you want, you can change the Dropdown to `Skyrim Special Edition Launcher` and change your graphics preset there. Medium or High are generally recommended.
+
 ---
 
 ### Setting Up Optional Controller, Ultrawide, & Survival Support
 
 If you plan to play Survival Mode, double click the separator that reads `Optionals & INI Overrides`, then enable the `Survival Mode INI - Enabled` mod.
+
+The Main Menu Replacer in the Optional files is amazing and features my wonderful cats. It's just for a bit of fun but it's great.
 
 I don't use a controller or own Ultrawide. If someone wants to write up guides/configs on these things that are known to work, I'm happy to include them here. Until then, I'm sorry to say you're on your own.
 
@@ -21,6 +25,8 @@ I don't use a controller or own Ultrawide. If someone wants to write up guides/c
 When you're all set up and ready to go, make sure the top right bar reads `SKSE` and press `Run.`
 
 The game will launch. **It will probably take a minute or two to load.** Please have some patience here, it's loading a whole lot of stuff.
+
+On your first launch, Community Shaders will take 10-15 minutes to Compile Shaders. This is normal, and is only done the first time you launch the game. Subsequent loads will use the already compiled shaders, and will not require the 10-15 minute wait again (unless you purge the shader cache or update the modlist).
 
 Start a New Game. You'll be in the Abandoned Prison. Create your character - I recommend the [Deep Elf race](https://www.nexusmods.com/skyrimspecialedition/mods/22499). If you don't want to play as a Deep Elf, that's totally fine - all the other races have [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315/) to make them a little more interesting, too. 
 
