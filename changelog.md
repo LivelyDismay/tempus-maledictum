@@ -1,5 +1,15 @@
 2025/04/14
 
+Version 8.0.4
+
+- Moved two new patches mentioned in 8.0.3 from `Overwrite` to `Lively's Patches`. Classic dumbass Lively.
+- Removed CK dependency, again, hopefully, god I hate this thing. Did you know that if I set WJ to ignore every individual CK-related file in Stock Game, it still tries to pull all that stuff into the compile anyway? Did you? I have to delete all the CK stuff from `steam/steamapps/` in order to get WJ to stop trying to include the CK stuff. IT'S GREAT. DO YOU KNOW HOW OFTEN I HAVE TO REMOVE AND REINSTALL THE CK
+- The rest of 8.0.3's changelog still applies, please read it.
+
+---
+
+2025/04/14
+
 Version 8.0.3
 
 - Deleted 7 trees, a juniper bush, and a tree stump.
