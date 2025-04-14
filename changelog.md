@@ -1,6 +1,8 @@
-WIP
+2025/04/14
 
-- Deleted 4 trees and a tree stump.
+Version 8.0.3
+
+- Deleted 7 trees, a juniper bush, and a tree stump.
 - Deleted a tankard.
 - Fixed markdown errors in Blue Dartwing and Bleeding Crown bestiary entries.
 - Added Vlindrel Hall - Mystic Condensor Patch (710). Patch added to Loot Group `WTPatches`.
@@ -11,12 +13,26 @@ WIP
 - Fixed a small gap in a wall in SalvisFarmExterior01 (`Liv_MarkarthEntrance_Fixes`).
 - Moved Aleksey's Key to be more easily obtainable and hopefully prevent people from saying it's sunken into a chest (fix merged into `Lively's Tweaks`).
 - Fixed landscape gap near Rorikstead (New Loot rule: `Redbeg's Rorikstead` - Load After `Landscape and Water Fixes - Patch - Farming`).
-  - This leaves some floating grass where the gap was. Will have to rerun Grass Cache later.
+  - This leaves some floating grass where the gap was. Will have to rerun Grass Cache later. Honestly I probably won't do this for a while, since it's one pretty small area, and it takes a long time to rerun this output. Maybe next time I break saves, since I plan to change the water anyway.
 - Fixed `RockCliff08.nif` having a darker blue texture than all other snow-covered terrain pieces.
 - Deleted a floating lantern trap in The Rift from Lux Via. Why was it there in the first place? Nobody knows.
 - Fixed hair and eyebrow meshes on Xander and Muiri.
 - New EasyNPC Output.
 - New Synthesis Outputs (all).
+- Added No Respawn flag to Dark Ship jar at Solitude Docks (fix merged into `Lively's Tweaks.esp`).
+- Removed Standing Stone Amulets from Madesi's vendor inventory.(New patch: `Liv_AmuletsofSkyrim_DontSellStandingStoneAmulets.esp` - added to Loot group `LivPatches`).
+- Edited Elberon (Forgotten Seasons DLC) base NPC record to remove Dwarven Crown from Default Outfit, and added Dwarven Crown to Death Item via new LVLI record. Untested; hopefully will fix the issue of Elberon not having the Dwarven Crown on his corpse (New patch: `Liv_ElberonCrownFix.esp` - added to Loot group `LivPatches`).
+- Removed a Mammoth Skull STAT that was clipped into a bridge in cell 4,2 (`mihailmammothbaby.esp`).
+- Added MHIYH Custom Follower Exclusion FLM Patch.
+  - *This was already in the list, but I put it on Nexus. Yay.*
+- Added Edge UI - Centered Tween Menu.
+  - *This was already in the list, but I put it on Nexus. Yay.*
+- Added Melana the War Maiden's "Helgen, What Helgen" patch. Thank you for the suggestion, TobiDoes.
+- Added Melana the War Maiden's "Heal Player" patch.
+- Removed an old patch from when I was trying out Placed Lights instead of Lux.
+- Updated Supporters list on the Main Menu. Thank you for your support! [Feel free to get your name in the credits as well.](https://www.patreon.com/c/nicholasjae)
+
+**Please note:** You will get a missing masters warning on this update. This plugin did NOTHING. It was a dummy. Your game is fine. I promise.
 
 ---
 
