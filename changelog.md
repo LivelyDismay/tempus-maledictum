@@ -1,5 +1,13 @@
 2025/04/14
 
+Version 8.0.5
+
+Changed version of curios from Steam to Creation Club. That's it.
+
+---
+
+2025/04/14
+
 Version 8.0.4
 
 - Moved two new patches mentioned in 8.0.3 from `Overwrite` to `Lively's Patches`. Classic dumbass Lively.
