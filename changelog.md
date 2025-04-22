@@ -1,3 +1,29 @@
+WIP
+
+- Moved or removed 20 trees. (`Liv_NOTWL_Treetrim`)
+- Removed one hanging moss. (`Liv_NOTWL_Treetrim`)
+- Removed one beehive. (`Liv_NOTWL_Treetrim`)
+- Added patch for RS Children and Beyond Reach. (`RS Children- Beyond Reach Patch SE`)
+- Added patch for RS Children and ETAC - Darkwater Crossing. (`RS Children Patch Compendium FOMOD`)
+- Added Avanchnzel Dwemer Piston Sound Hotfix.
+- Created new patch for Armory of the Dragon Cult (recent SPID update broke distribution; patch created to manually create and distribute leveled lists to Dragon Priests).
+  - This fix is not retroactive. You'll need to use the console to obtain missed gear from priests you've defeated previously. Sorry. (`Liv_DragonPriestArmory_INAMinsteadofSPID`; patch added to `LivPatches` Loot group).
+- Added `No Respawn` flag to Thieves Guild Storage Cabinet door in the Ragged Flagon (will prevent door from re-locking itself if player is gone for 30+ days) (`Liv_NLIThieves_Patchwork`).
+- Added lock levels to five training chests in Thieves Guild Cistern (`Liv_NLIThieves_Patchwork`).
+- Capitalized location name for Salt Marsh Watch from The Marshlands (Fix merged into `WT Final Marshlands Tweaks`).
+- Added Practical Necromancy to FLM file to allow for perk points to be refunded from this Custom Skill tree when using a Scroll of Legends (added to `Perk Refunds Affects Custom Skills - Ordinator`).
+- Fixed issue where Aetherium Ingots could not be smelted.
+
+**Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
+
+Known issues that won't be fixed until next save-breaking update:
+
+- Cidhna Mine guards can be permanently hostile. Will remove Cidhna Mine Expanded in the future.
+- Dovahzul words involving Fire, Frost, and Ice can say `Fiik` instead of the actual word. No other issues seem to arise from this. Most likely culprit is Dragons Use Thu'um. Cannot update this mod mid-save.
+- Myrwatch quest objectives don't appropriately forward changes (purchase from Tolfdir instead of casting the fire spell on the rune). This is confusing and, frankly, unnecessary for Tempus. Will remove CC Myrwatch Tweaks & Enhancements in the future.
+
+---
+
 2025/04/14
 
 Version 8.0.5
