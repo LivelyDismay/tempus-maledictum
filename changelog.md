@@ -1,4 +1,6 @@
-WIP
+2025/04/26
+
+Version 8.0.6
 
 **Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
 
@@ -22,12 +24,14 @@ WIP
   - Jade Lady Statue moved from Japhet's Folly to Markarth's Shrine of Talos.
 - Moved two collectible items in Darklight Tower to more accessible areas (new patch: `Liv_DarklightFixes`; added to `LivPatches` Loot group).
 - Edited the Change Looks spell that I can't remember the name of from Odin to not have a green glow on the character, made by request. Merged into `Lively's Tweaks.esp`.
-- Fixed translation issues in `RimImpactOfMod.esp`. Includes direct edits to plugin file. Should hopefully fix "invisible" diseases and debuffs.
+- Fixed translation issues in `RimImpactOfMod.esp`. Includes direct edits to plugin file. Should hopefully fix invisible diseases and debuffs.
 - New patch: `Liv_RimImpact_AutomatonGlow`; added to `LivPatches` Loot group.
 - Fixed landscape issue at Varlais Cavern (cell `16, -26`).
+- Added `uInterior Cell Buffer=0` to `Skyrim.ini` under the `[General]` section.
+  - Ra2Phoenix suggests this may help with the occasional crash-on-load deal, and he is smarter than me, so let's try it out!
 - New Synthesis outputs.
 - New step in MCM Recording (to add default Hotkey for Inquisitor-Warlock, `N`). Adjusted Hotkey Reminder (`F11`) accordingly.
-- Updated Patreon credits.
+- Updated Patreon credits. (*so many cancellations lately*).
 
 Known issues I didn't feel like fixing yet:
 
