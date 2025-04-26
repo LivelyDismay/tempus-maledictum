@@ -1,6 +1,6 @@
 WIP
 
-- Moved or removed 20 trees. (`Liv_NOTWL_Treetrim`)
+- Moved or removed 22 trees. (`Liv_NOTWL_Treetrim`)
 - Removed one hanging moss. (`Liv_NOTWL_Treetrim`)
 - Removed one beehive. (`Liv_NOTWL_Treetrim`)
 - Added patch for RS Children and Beyond Reach. (`RS Children- Beyond Reach Patch SE`)
@@ -13,6 +13,16 @@ WIP
 - Capitalized location name for Salt Marsh Watch from The Marshlands (Fix merged into `WT Final Marshlands Tweaks`).
 - Added Practical Necromancy to FLM file to allow for perk points to be refunded from this Custom Skill tree when using a Scroll of Legends (added to `Perk Refunds Affects Custom Skills - Ordinator`).
 - Fixed issue where Aetherium Ingots could not be smelted.
+- Fixed a number of cell overrides not forwarding Lux changes (new patch: `Liv_LuxOverrides`; added to `LuxPatches` Loot group). (Note: not all cell changes made to this plugin, only cells that didn't previously have a custom patch by us).
+- Moved a number of LotD displays out of locations which you can never return to after clearing.
+  - Orc Head in a Jar moved from Skuldafn to Narzulbur Mauhulakh's Longhouse.
+  - Jade Priest Statue moved from Skuldafn to Shroud Hearth Barrow.
+  - Jade Lady Statue moved from Japhet's Folly to Markarth's Shrine of Talos.
+- Moved two collectible items in Darklight Tower to more accessible areas (new patch: `Liv_DarklightFixes`; added to `LivPatches` Loot group).
+- Edited the Change Looks spell that I can't remember the name of from Odin to not have a green glow on the character, made by request. Merged into `Lively's Tweaks.esp`.
+- Fixed translation issues in `RimImpactOfMod.esp`. Includes direct edits to plugin file. Should hopefully fix "invisible" diseases and debuffs.
+- New patch: `Liv_RimImpact_AutomatonGlow`; added to `LivPatches` Loot group.
+- Updated Patreon credits.
 
 **Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
 
