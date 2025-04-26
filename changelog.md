@@ -12,7 +12,7 @@ WIP
 - Added lock levels to five training chests in Thieves Guild Cistern (`Liv_NLIThieves_Patchwork`).
 - Capitalized location name for Salt Marsh Watch from The Marshlands (Fix merged into `WT Final Marshlands Tweaks`).
 - Added Practical Necromancy to FLM file to allow for perk points to be refunded from this Custom Skill tree when using a Scroll of Legends (added to `Perk Refunds Affects Custom Skills - Ordinator`).
-- Fixed issue where Aetherium Ingots could not be smelted.
+- Fixed issue where Aetherium Ingots could not be smelted (classic Lively move - there's two mods that add Aetherium ore & ingots, and I disabled both, probably with the intention of choosing which one to use later, edited all the cobjs to use the same ore & ingots for consistency, then never re-enabled a way to craft the appropriate ingots).
 - Fixed a number of cell overrides not forwarding Lux changes (new patch: `Liv_LuxOverrides`; added to `LuxPatches` Loot group). (Note: not all cell changes made to this plugin, only cells that didn't previously have a custom patch by us).
 - Moved a number of LotD displays out of locations which you can never return to after clearing.
   - Orc Head in a Jar moved from Skuldafn to Narzulbur Mauhulakh's Longhouse.
@@ -22,15 +22,24 @@ WIP
 - Edited the Change Looks spell that I can't remember the name of from Odin to not have a green glow on the character, made by request. Merged into `Lively's Tweaks.esp`.
 - Fixed translation issues in `RimImpactOfMod.esp`. Includes direct edits to plugin file. Should hopefully fix "invisible" diseases and debuffs.
 - New patch: `Liv_RimImpact_AutomatonGlow`; added to `LivPatches` Loot group.
+- Fixed landscape issue at Varlais Cavern (cell `16, -26`).
+- New Synthesis outputs.
+- New step in MCM Recording (to add default Hotkey for Inquisitor-Warlock, `N`). Adjusted Hotkey Reminder (`F11`) accordingly.
 - Updated Patreon credits.
 
 **Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
+
+Known issues I didn't feel like fixing yet:
+
+- Black face bugs on children NPCs in Karthwasten.
+- Black face bug on a few select NPCs (`19970`, `1996C`, `3300E`, `020176FB`).
 
 Known issues that won't be fixed until next save-breaking update:
 
 - Cidhna Mine guards can be permanently hostile. Will remove Cidhna Mine Expanded in the future.
 - Dovahzul words involving Fire, Frost, and Ice can say `Fiik` instead of the actual word. No other issues seem to arise from this. Most likely culprit is Dragons Use Thu'um. Cannot update this mod mid-save.
 - Myrwatch quest objectives don't appropriately forward changes (purchase from Tolfdir instead of casting the fire spell on the rune). This is confusing and, frankly, unnecessary for Tempus. Will remove CC Myrwatch Tweaks & Enhancements in the future.
+- Morthal Barrow will be removed due to use of AI voice. I originally thought this was voice splicing, which is more of a gray area; I was mistaken.
 
 ---
 
