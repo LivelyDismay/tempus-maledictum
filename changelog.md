@@ -1,5 +1,7 @@
 WIP
 
+**Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
+
 - Moved or removed 22 trees. (`Liv_NOTWL_Treetrim`)
 - Removed one hanging moss. (`Liv_NOTWL_Treetrim`)
 - Removed one beehive. (`Liv_NOTWL_Treetrim`)
@@ -26,8 +28,6 @@ WIP
 - New Synthesis outputs.
 - New step in MCM Recording (to add default Hotkey for Inquisitor-Warlock, `N`). Adjusted Hotkey Reminder (`F11`) accordingly.
 - Updated Patreon credits.
-
-**Please note: You will once again have a Missing Master warning when you load up your save. This is expected and perfectly fine. The plugin was 100% overrides and has been fully replaced. This will not harm your game in any way.**
 
 Known issues I didn't feel like fixing yet:
 
