@@ -11,7 +11,9 @@ Version 8.0.6
 - Added patch for RS Children and ETAC - Darkwater Crossing. (`RS Children Patch Compendium FOMOD`)
 - Added Avanchnzel Dwemer Piston Sound Hotfix.
 - Created new patch for Armory of the Dragon Cult (recent SPID update broke distribution; patch created to manually create and distribute leveled lists to Dragon Priests).
-  - This fix is not retroactive. You'll need to use the console to obtain missed gear from priests you've defeated previously. Sorry. (`Liv_DragonPriestArmory_INAMinsteadofSPID`; patch added to `LivPatches` Loot group).
+  - This fix is not retroactive. You'll need to use the console to obtain missed gear from priests you've defeated previously. Sorry.
+  - Also I haven't really tested this, so let me know.
+  - (`Liv_DragonPriestArmory_INAMinsteadofSPID`; patch added to `LivPatches` Loot group).
 - Added `No Respawn` flag to Thieves Guild Storage Cabinet door in the Ragged Flagon (will prevent door from re-locking itself if player is gone for 30+ days) (`Liv_NLIThieves_Patchwork`).
 - Added lock levels to five training chests in Thieves Guild Cistern (`Liv_NLIThieves_Patchwork`).
 - Capitalized location name for Salt Marsh Watch from The Marshlands (Fix merged into `WT Final Marshlands Tweaks`).
