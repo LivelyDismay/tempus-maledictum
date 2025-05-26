@@ -19,6 +19,7 @@ Version 8.1.0
 - Savvy's Tel Mithryn.
 - CC Myrwatch - Tweaks and Enhancements.
 - Water For ENB.
+- Enhanced Blood Textures.
 
 ---
 
@@ -58,6 +59,7 @@ Version 8.1.0
 - Media Keys Fix SKSE.
 - Bleeding Damage Fixes.
 - Nature of the Wild Lands - Animations Addon.
+- Sanguine Symphony.
 
 ---
 
