@@ -1,3 +1,66 @@
+WIP
+
+Nothing in here is guaranteed; all is subject to change. Not save safe. Release date unknown.
+
+Version 8.1.0
+
+**PATCH NOTES**
+
+- Moved or removed 9 trees.
+- Fixed Miraak's vanilla skin being flagged as Playable when it shouldn't be.
+
+---
+
+**REMOVED**
+- Morthal Barrow.
+- Celestine.
+- Orpheus.
+- Blood and Silver - Cidhna Mine Expanded.
+- Savvy's Tel Mithryn.
+- CC Myrwatch - Tweaks and Enhancements.
+- Water For ENB.
+
+---
+
+**UPDATED**
+
+- Community Shaders.
+- Dragons Use Thu'um.
+- Occlusion for Quest Mods.
+- Nature of the Wild Lands.
+
+---
+
+**ADDED**
+
+- Realistic Water Two.
+- Water Not Metal.
+- Realistic Water Two Forge Water for Elysium Estate - Patch.
+- COTN Falkreath - RW2 5.0 Patch.
+- Better Watercolor and Transparency for Realistic Water Two.
+- The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
+- Hammering Animation and Sound Fixes.
+- Stealth Detection Fixes.
+- Considerate Followers - Followers are Silent During Dialogue.
+- CAM - Companions at Mirmulnir.
+- The Gildergreen Grows.
+- Draw Fix - Move Equip Animation Fix.
+- Sabre Cat Attack Animations.
+- Inertia (Floating Gear Fix).
+- HAG - Occult Cradle Stone Tower.
+- Combat Pathing Revolution AE.
+- Auri VIGILANT commentary patch tweaks.
+- Dawnguard Perk Tree.
+- Seagulls- Mihail Monsters and Animals (SE-AE version).
+- PAN - Nameless Vampires SE.
+- Logical Rope Bridges - Suspension of Spans.
+- Alt-Tab Stuck Key Fix NG.
+- Media Keys Fix SKSE.
+- Bleeding Damage Fixes.
+- Nature of the Wild Lands - Animations Addon.
+
+---
+
 2025/04/26
 
 Version 8.0.6
