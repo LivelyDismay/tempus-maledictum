@@ -6,20 +6,30 @@ Version 8.1.0
 
 **PATCH NOTES**
 
-- Moved or removed 9 trees.
+- Moved or removed 10 trees.
 - Fixed Miraak's vanilla skin being flagged as Playable when it shouldn't be.
 
 ---
 
 **REMOVED**
-- Morthal Barrow.
-- Celestine.
-- Orpheus.
+
+- Andromeda - Unique Standing Stones of Skyrim.
+- Bruiser - Hand to Hand Skill Tree.
 - Blood and Silver - Cidhna Mine Expanded.
-- Savvy's Tel Mithryn.
 - CC Myrwatch - Tweaks and Enhancements.
-- Water For ENB.
+- Celestine.
+- Custom Skills Merged.
+- Dialogue History.
 - Enhanced Blood Textures.
+- Imperious - Races of Skyrim.
+- Indigo.
+- Morthal Barrow.
+- Orpheus.
+- Practical Necromancy.
+- Redbag's Rorikstead.
+- Savvy's Tel Mithryn.
+- Scoped Bows.
+- Water For ENB.
 
 ---
 
@@ -27,39 +37,54 @@ Version 8.1.0
 
 - Community Shaders.
 - Dragons Use Thu'um.
-- Occlusion for Quest Mods.
 - Nature of the Wild Lands.
+- Occlusion for Quest Mods.
+- Stronger Potema - Wolf Queen Boss.
+- The Taste of Death - Quest Addon.
 
 ---
 
 **ADDED**
 
-- Realistic Water Two.
-- Water Not Metal.
-- Realistic Water Two Forge Water for Elysium Estate - Patch.
-- COTN Falkreath - RW2 5.0 Patch.
-- Better Watercolor and Transparency for Realistic Water Two.
-- The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
-- Hammering Animation and Sound Fixes.
-- Stealth Detection Fixes.
-- Considerate Followers - Followers are Silent During Dialogue.
-- CAM - Companions at Mirmulnir.
-- The Gildergreen Grows.
-- Draw Fix - Move Equip Animation Fix.
-- Sabre Cat Attack Animations.
-- Inertia (Floating Gear Fix).
-- HAG - Occult Cradle Stone Tower.
-- Combat Pathing Revolution AE.
-- Auri VIGILANT commentary patch tweaks.
-- Dawnguard Perk Tree.
-- Seagulls- Mihail Monsters and Animals (SE-AE version).
-- PAN - Nameless Vampires SE.
-- Logical Rope Bridges - Suspension of Spans.
+- Aljo's Vigilant Tweaks.
 - Alt-Tab Stuck Key Fix NG.
-- Media Keys Fix SKSE.
+- Apocalypse - Silmane's Spell Sentinel Auto Dispel and Fixes.
+- Auri VIGILANT commentary patch tweaks.
+- Better Watercolor and Transparency for Realistic Water Two.
 - Bleeding Damage Fixes.
+- Bow Charge Plus.
+- Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch.
+- Bow Charge Plus Velocity fix.
+- Bow Rapid Combo V3.
+- Bow Rapid Combo Bow Charge Shot Custom Skill Tree.
+- CAM - Companions at Mirmulnir.
+- Combat Pathing Revolution AE.
+- Considerate Followers - Followers are Silent During Dialogue.
+- COTN Falkreath - RW2 5.0 Patch.
+- Dawnguard Perk Tree.
+- Denji - Custom Skills Menu for CSF v3.
+- Draw Fix - Move Equip Animation Fix.
+- Freyr - Integrated Standing Stones of Skyrim.
+- HAG - Occult Cradle Stone Tower.
+- Hot Key Skill.
+- Hammering Animation and Sound Fixes.
+- Inertia (Floating Gear Fix).
+- Logical Rope Bridges - Suspension of Spans.
+- Mannaz - Integrated Races of Skyrim.
+- Mannaz - Useful Races Descriptions.
+- Media Keys Fix SKSE.
 - Nature of the Wild Lands - Animations Addon.
+- PAN - Nameless Vampires SE.
+- Realistic Water Two.
+- Realistic Water Two Forge Water for Elysium Estate - Patch.
+- Sabre Cat Attack Animations.
 - Sanguine Symphony.
+- Seagulls- Mihail Monsters and Animals (SE-AE version).
+- Stealth Detection Fixes.
+- The Gildergreen Grows.
+- The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
+- Water Not Metal.
+- Wintersun - Faiths of Skyrim.
 
 ---
 
