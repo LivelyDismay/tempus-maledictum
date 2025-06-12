@@ -8,6 +8,7 @@ Version 8.1.0
 
 - Moved or removed 10 trees.
 - Fixed Miraak's vanilla skin being flagged as Playable when it shouldn't be.
+- Edited Gaulur Amulet (and all three fragments) to use Awesome Artifacts enchantments instead of TAS enchantments - this should fix the issue of the amulet aggroing some NPCs (TAS had unconditioned magic effects to drain health, stamina, and magicka).
 
 ---
 
@@ -24,6 +25,7 @@ Version 8.1.0
 - Imperious - Races of Skyrim.
 - Indigo.
 - Morthal Barrow.
+- Northern Raven Rock.
 - Orpheus.
 - Practical Necromancy.
 - Redbag's Rorikstead.
