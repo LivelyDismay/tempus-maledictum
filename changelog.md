@@ -6,9 +6,10 @@ Version 8.1.0
 
 **PATCH NOTES**
 
-- Moved or removed 10 trees.
+- Moved or removed 40 trees.
 - Fixed Miraak's vanilla skin being flagged as Playable when it shouldn't be.
 - Edited Gaulur Amulet (and all three fragments) to use Awesome Artifacts enchantments instead of TAS enchantments - this should fix the issue of the amulet aggroing some NPCs (TAS had unconditioned magic effects to drain health, stamina, and magicka).
+- Patched Peryite Shrine for Wintersun, Only Cure Quest Expansion, and Daedric Shrines AIO.
 
 ---
 
@@ -48,40 +49,65 @@ Version 8.1.0
 
 **ADDED**
 
+- A Horse's Life.
 - Aljo's Vigilant Tweaks.
 - Alt-Tab Stuck Key Fix NG.
+- Animation Ledge Block NG.
 - Apocalypse - Silmane's Spell Sentinel Auto Dispel and Fixes.
+- Attack Animation Fling Fix NG.
 - Auri VIGILANT commentary patch tweaks.
+- Azurite Weathers III - Enhanced.
 - Better Watercolor and Transparency for Realistic Water Two.
 - Bleeding Damage Fixes.
+- Blended Skills - Class Perks.
 - Bow Charge Plus.
 - Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch.
 - Bow Charge Plus Velocity fix.
 - Bow Rapid Combo V3.
 - Bow Rapid Combo Bow Charge Shot Custom Skill Tree.
 - CAM - Companions at Mirmulnir.
+- Cancel Attack SKSE - Balanced Settings.
 - Combat Pathing Revolution AE.
 - Considerate Followers - Followers are Silent During Dialogue.
 - COTN Falkreath - RW2 5.0 Patch.
+- Custom Skills - GLENMORIL.
+- Custom Skills - HandToHand.
+- Custom Skills - Unarmoured Defense.
+- Daedric Shrines - All in One.
+- Daedric Shrines - Wintersun Patch.
 - Dawnguard Perk Tree.
+- Death Drop Overhaul.
+- Death Idle Fix.
 - Denji - Custom Skills Menu for CSF v3.
 - Draw Fix - Move Equip Animation Fix.
+- Expanded Mastery Perks for Ordinator.
 - Freyr - Integrated Standing Stones of Skyrim.
 - HAG - Occult Cradle Stone Tower.
+- Hammering Animation and Sound Fixes.
 - Hot Key Skill.
 - Hammering Animation and Sound Fixes.
 - Inertia (Floating Gear Fix).
+- Invisible Rune Explosion Fix.
 - Logical Rope Bridges - Suspension of Spans.
 - Mannaz - Integrated Races of Skyrim.
 - Mannaz - Useful Races Descriptions.
 - Media Keys Fix SKSE.
 - Nature of the Wild Lands - Animations Addon.
+- Ordinator - Combat Styles.
+- Orc Stronghold - Dushnikh Yal Occlusion Addon.
+- Orc Strongholds - All In One.
+- Orc Strongholds - All In One High Poly Head patch.
 - PAN - Nameless Vampires SE.
+- Persistent Favorites.
+- Quest Journal Limit Bug Fixer - Recover Disappeared Quests.
 - Realistic Water Two.
 - Realistic Water Two Forge Water for Elysium Estate - Patch.
+- Remove Orphaned Hazards.
 - Sabre Cat Attack Animations.
 - Sanguine Symphony.
+- SD's Enairim Tweaks.
 - Seagulls- Mihail Monsters and Animals (SE-AE version).
+- SilverDeckel's Common Stuff.
 - Stealth Detection Fixes.
 - The Gildergreen Grows.
 - The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
