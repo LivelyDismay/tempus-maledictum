@@ -38,11 +38,15 @@ Version 8.1.0
 
 **UPDATED**
 
+- Better Grabbing.
 - Community Shaders.
 - Dragons Use Thu'um.
+- High Quality Ivy.
 - Nature of the Wild Lands.
 - Occlusion for Quest Mods.
+- Screen Space Global Illumination (SSGI).
 - Stronger Potema - Wolf Queen Boss.
+- Summermyst - Enchantments of Skyrim.
 - The Taste of Death - Quest Addon.
 
 ---
@@ -52,12 +56,15 @@ Version 8.1.0
 - A Horse's Life.
 - Aljo's Vigilant Tweaks.
 - Alt-Tab Stuck Key Fix NG.
+- Alternate Skill Books.
 - Animation Ledge Block NG.
 - Apocalypse - Silmane's Spell Sentinel Auto Dispel and Fixes.
+- Ascend - Hidden Peaks of Wyrmstooth.
 - Attack Animation Fling Fix NG.
 - Auri VIGILANT commentary patch tweaks.
 - Azurite Weathers III - Enhanced.
 - Better Watercolor and Transparency for Realistic Water Two.
+- Blackreach Overhaul.
 - Bleeding Damage Fixes.
 - Blended Skills - Class Perks.
 - Bow Charge Plus.
@@ -67,52 +74,110 @@ Version 8.1.0
 - Bow Rapid Combo Bow Charge Shot Custom Skill Tree.
 - CAM - Companions at Mirmulnir.
 - Cancel Attack SKSE - Balanced Settings.
+- Cathedral - 3D Grass Library - Meshes.
 - Combat Pathing Revolution AE.
 - Considerate Followers - Followers are Silent During Dialogue.
+- Core Impact Framework (CIF).
 - COTN Falkreath - RW2 5.0 Patch.
 - Custom Skills - GLENMORIL.
 - Custom Skills - HandToHand.
 - Custom Skills - Unarmoured Defense.
+- Cut The Wheat - OIF.
 - Daedric Shrines - All in One.
 - Daedric Shrines - Wintersun Patch.
+- Dangerous Ingredients and How to Pick Them - OIF.
+- Dawnbreaker Pedestal Meridia Retexture.
 - Dawnguard Perk Tree.
 - Death Drop Overhaul.
 - Death Idle Fix.
+- Defy the Gardener.
 - Denji - Custom Skills Menu for CSF v3.
+- Dimmer Dust by FrankBlack.
+- Divergence - Compendium of Beasts - Ash Guardian.
+- Diverse 4thUnknown Dragons.
+- Diverse Chicken Coops - Base Object Swapper.
+- Dont sheathe bound weapon OAR Conversion.
 - Draw Fix - Move Equip Animation Fix.
+- Dual Active Effects Icons for SkyUI.
+- Dwarven Grenade - Explosive Centurion Dynamo Core - OIF.
+- Dwemer Spectres - Remiel Patch.
+- Dynamic Female Table Leaning.
+- Dynamic Stacked Object Models.
 - Expanded Mastery Perks for Ordinator.
+- Eyes Nouveaux.
 - Freyr - Integrated Standing Stones of Skyrim.
+- FYX - Alpha Blood Blending Bug - NG.
+- Glenmoril - Cities of the North Patch.
+- Gore - A Companion Mod.
+- Gore x Vigilant.
+- Grab And Throw.
 - HAG - Occult Cradle Stone Tower.
+- Hail - Hailstorms of Skyrim.
 - Hammering Animation and Sound Fixes.
+- HD Soups and Stews.
 - Hot Key Skill.
 - Hammering Animation and Sound Fixes.
+- HFs - Glazed Pottery - remodels.
+- HFs - Practice Dummies - remodel.
+- Ignite oil - FormList Manipulator (FLM).
+- Immersive Hanging Dead Animal Harvest - OIF.
 - Inertia (Floating Gear Fix).
 - Invisible Rune Explosion Fix.
 - Logical Rope Bridges - Suspension of Spans.
+- Madmen Poison Damage Nerf - SkyPatcher.
 - Mannaz - Integrated Races of Skyrim.
 - Mannaz - Useful Races Descriptions.
 - Media Keys Fix SKSE.
+- Metal Attracts Lightning - Lightning Rod.
+- Miasma.
+- Miscellaneous Quests are Favors.
+- Mistborn Eyes.
 - Nature of the Wild Lands - Animations Addon.
+- Non-Horse Mount Animation Fix.
+- NPC Block Loop Fix.
+- OAR Gore MCO Animations Folder.
+- Object Categorization Framework - Some KID Patches - I4 - OCF.
+- Object Impact Framework (OIF).
+- Obscure Animations Overhaul.
+- Open Animation Replacer - IED Conditions.
 - Ordinator - Combat Styles.
 - Orc Stronghold - Dushnikh Yal Occlusion Addon.
 - Orc Strongholds - All In One.
 - Orc Strongholds - All In One High Poly Head patch.
 - PAN - Nameless Vampires SE.
 - Persistent Favorites.
+- Press E to Heal Gore.
 - Quest Journal Limit Bug Fixer - Recover Disappeared Quests.
+- Race Compatibility Dialogue for Gore.
+- Racial Abilities - I4 icons.
 - Realistic Water Two.
 - Realistic Water Two Forge Water for Elysium Estate - Patch.
+- Real Wheat Fields.
 - Remove Orphaned Hazards.
+- Riverwood Falls - Waterfall Additions for Riverwood.
+- RS Children - Gore - A Companion Mod.
 - Sabre Cat Attack Animations.
+- Saints and Seducers Retexture SE.
 - Sanguine Symphony.
 - SD's Enairim Tweaks.
 - Seagulls- Mihail Monsters and Animals (SE-AE version).
+- Shellbug Chitin Harvesting Revamped - OIF.
+- Shield on back protects your back.
 - SilverDeckel's Common Stuff.
+- Skull of Corruption Rework.
+- SkyPatcher Keyword Framework.
+- Softly Obscuring Snowfall.
+- Sovngarde Meshes - FIXES.
 - Stealth Detection Fixes.
+- Swamp Skeletons - Chakra's Creatures.
 - The Gildergreen Grows.
 - The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
+- Thieves Guild For Good Guys - Taking Care of Business Redux.
+- Unofficial Carved Brink Patch.
+- Wade in Water Redux - Softened Penalties.
 - Water Not Metal.
 - Wintersun - Faiths of Skyrim.
+- Witchy Wilderness.
 
 ---
 
