@@ -25,6 +25,7 @@ Version 8.1.0
 - Enhanced Blood Textures.
 - Imperious - Races of Skyrim.
 - Indigo.
+- Inquisitor Warlock.
 - Morthal Barrow.
 - Northern Raven Rock.
 - Orpheus.
@@ -85,7 +86,6 @@ Version 8.1.0
 - Cut The Wheat - OIF.
 - Daedric Shrines - All in One.
 - Daedric Shrines - Wintersun Patch.
-- Dangerous Ingredients and How to Pick Them - OIF.
 - Dawnbreaker Pedestal Meridia Retexture.
 - Dawnguard Perk Tree.
 - Death Drop Overhaul.
