@@ -56,6 +56,8 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Light Limit Fix.
 - Local Map Upgrade - Edge UI Patch.
 - Lore-Based Loading Screens.
+- The Lost Wonders of Mzark.
+- The Lost Wonders of Mzark-Boats Addon.
 - Melana the War Maiden.
 - Morthal Barrow.
 - Northern Raven Rock.
@@ -67,6 +69,8 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Scoped Bows.
 - Sovngarde - Mist's Font Replacer Light.
 - Tem's Houses (all of them).
+- There Is No (CC) Umbra.
+- There Is No Umbra - Chapter III.
 - Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild.
 - Water For ENB.
 
