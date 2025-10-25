@@ -108,6 +108,7 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Lux Orbis (patch hub).
 - Markarth Outskirts.
 - Metal Attracts Lightning.
+- Miasma.
 - Missives - Stuck Journal Quest Fix.
 - Nature of the Wild Lands.
 - NPC Spell Variance - Spell Variety AI.
