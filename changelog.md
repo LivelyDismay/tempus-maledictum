@@ -1,8 +1,19 @@
-WIP
+**WIP**
+That means "Work In Progress" and as such, this version is not yet released or available.
 
 Nothing in here is guaranteed; all is subject to change. Not save safe. Release date unknown.
 
-Version 8.1.0
+Version 8.1.0 (quickly turning into 9.0 but whatever)
+
+**RANDOM THOUGHTS**
+
+- I've been looking at Custom Skills Framework stuff and honestly I'm not really happy with any of them. The only ones I really like are the LotD ones, but you can use the books in the Guildhouse for that, so...I don't know. Might ditch all of them.
+- Could use a new Breezehome, maybe? Undecided.
+- Probably going to replace Edge UI with Oathvein UI. Not looking forward to doing that...
+- Fuck you, Dyndolod. And fuck you, grass records.
+- I really like having new quests, but when I look at all the quests we have, I can't help but want to delete like half of them. Beyond Reach, Bruma, Project AHO, Lost Wonders of Mzark (who am I kidding, this is definitely getting deleted later), There Is No Umbra (also getting the boot for sure), Wheels of Lull, Undeath, Saints & Seducers Extended Cut...would be nice to have new quest mods. All of these have crazy amounts of bugs - and thus, crazy amounts of work for me - or just aren't enjoyable to do multiple times. Need more stuff like Wyrmstooth and Sirenroot.
+- SPID still hasn't updated to fix the LLD issue (best known by Tempus enjoyers as the "why the fuck don't I get dragon priest gear" issue). Maybe I'll add chests with all their gear, and have it spawn in with some fancy magic visual effect when you kill associated priest.
+- The [Patreon](https://www.patreon.com/posts/poll-improved-142007243?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) poll is currently 94% in favor of removing Improved Closefaced Helmets. That'll take a day or two to undo all my patching for that.
 
 **PATCH NOTES**
 
@@ -10,6 +21,7 @@ Version 8.1.0
 - Fixed Miraak's vanilla skin being flagged as Playable when it shouldn't be.
 - Edited Gaulur Amulet (and all three fragments) to use Awesome Artifacts enchantments instead of TAS enchantments - this should fix the issue of the amulet aggroing some NPCs (TAS had unconditioned magic effects to drain health, stamina, and magicka).
 - Patched Peryite Shrine for Wintersun, Only Cure Quest Expansion, and Daedric Shrines AIO.
+- Made a patch to remove killmoves occurring against the player character.
 
 ---
 
@@ -20,12 +32,15 @@ Version 8.1.0
 - Blood and Silver - Cidhna Mine Expanded.
 - CC Myrwatch - Tweaks and Enhancements.
 - Celestine.
+- Collectibles Helper.
 - Custom Skills Merged.
 - Dialogue History.
 - Enhanced Blood Textures.
 - Imperious - Races of Skyrim.
 - Indigo.
 - Inquisitor Warlock.
+- Light Limit Fix.
+- Melana the War Maiden.
 - Morthal Barrow.
 - Northern Raven Rock.
 - Orpheus.
@@ -33,27 +48,73 @@ Version 8.1.0
 - Redbag's Rorikstead.
 - Savvy's Tel Mithryn.
 - Scoped Bows.
+- Tem's Houses (all of them).
 - Water For ENB.
 
 ---
 
 **UPDATED**
 
+- Absorb Spell XP Fix.
+- Azurite Weathers III.
+- Azurite Weathers III - Enhanced.
+- Azurite Weathers III - MCM.
 - Better Grabbing.
+- Cities of the North - Falkreath Patch Collection.
+- Cloud Shadows.
 - Community Shaders.
+- COTN Dawnstar Patch Collection.
+- COTN Morthal Patch Collection.
+- The Distinct Great Ivarstead Interiors (patch).
+- Distinct Interiors Patch Collection.
+- Diverse 4thUnknown Dragons.
+- Dragons Fall Down - Immersive Airborne Death.
 - Dragons Use Thu'um.
+- Dynamic Impacts.
+- Grass Collision.
+- The Great Cities- Resources.
+- The Great City Of Winterhold SSE Edition.
+- The Great City of Winterhold Patch Collection.
+- The Great Town of Ivarstead Patch Collection.
+- The Great Town of Shor's Stone Patch Collection.
 - High Quality Ivy.
+- Improved Camera SE.
+- JK's Whiterun Outskirts.
+- Lux.
+- Lux (patch hub).
+- Lux Orbis (patch hub).
+- Markarth Outskirts.
+- Metal Attracts Lightning.
+- Missives - Stuck Journal Quest Fix.
 - Nature of the Wild Lands.
+- NPC Spell Variance - Spell Variety AI.
 - Occlusion for Quest Mods.
+- Race Compatibility Dialogue for Remiel.
+- Race Compatibility Dialogue for Xelzaz.
+- Remiel-Custom Voiced Dwemer Specialist and Companion.
 - Screen Space Global Illumination (SSGI).
+- Screen Space Shadows.
+- Skylighting.
+- Solitude Weaver's Lane.
+- Song of the Green (Auri Follower).
 - Stronger Potema - Wolf Queen Boss.
+- Subsurface Scattering.
 - Summermyst - Enchantments of Skyrim.
 - The Taste of Death - Quest Addon.
+- Trade and Barter.
+- Unofficial Skyrim Special Edition Patch.
+- Val Serano.
+- Water Effects.
+- Wetness Effects.
+- The Whispering Door - Quest Expansion.
+- Whiterun Exteriors Patch Collection.
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower.
 
 ---
 
 **ADDED**
 
+- 710s Any Axe Will Do.
 - A Horse's Life.
 - Aljo's Vigilant Tweaks.
 - Alt-Tab Stuck Key Fix NG.
@@ -123,6 +184,7 @@ Version 8.1.0
 - Immersive Hanging Dead Animal Harvest - OIF.
 - Inertia (Floating Gear Fix).
 - Invisible Rune Explosion Fix.
+- Jiub's Opus.
 - Logical Rope Bridges - Suspension of Spans.
 - Madmen Poison Damage Nerf - SkyPatcher.
 - Mannaz - Integrated Races of Skyrim.
@@ -170,6 +232,7 @@ Version 8.1.0
 - Sovngarde Meshes - FIXES.
 - Stealth Detection Fixes.
 - Swamp Skeletons - Chakra's Creatures.
+- Terrain Blending.
 - The Gildergreen Grows.
 - The Royal Seat - A Noble and Upperclass Bench Chair and Throne Replacer.
 - Thieves Guild For Good Guys - Taking Care of Business Redux.
