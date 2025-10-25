@@ -254,6 +254,7 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - SkyPatcher Keyword Framework.
 - Softly Obscuring Snowfall.
 - Sovngarde Meshes - FIXES.
+- STB Active Effects.
 - Stealth Detection Fixes.
 - Swamp Skeletons - Chakra's Creatures.
 - Terrain Blending.
