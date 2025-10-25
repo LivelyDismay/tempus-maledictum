@@ -28,27 +28,46 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 **REMOVED**
 
 - Andromeda - Unique Standing Stones of Skyrim.
+- Body Slots - Edge UI.
 - Bruiser - Hand to Hand Skill Tree.
 - Blood and Silver - Cidhna Mine Expanded.
 - CC Myrwatch - Tweaks and Enhancements.
 - Celestine.
 - Collectibles Helper.
+- Config for Aura's Icon Tweaks - Edge UI - Body Slots.
 - Custom Skills Merged.
 - Dialogue History.
+- Edge UI.
+- Edge UI 0.61 - lockpickingmenu button icon fix.
+- Edge UI Dragonborn Bestiary.
+- Edge UI Like - Casting Bar Patch.
+- Edge UI Like - Fancy Fishing Patch.
+- Edge UI Squish Fixes.
+- Edge UI misalignment fix.
+- Edge UI Player bars fix(Bottom Left).
+- Edge UI - BTPS Fix.
+- Edge UI - Even More Misalignment Fixes.
+- Edge UI - Map Markers.
+- Edge UI - QuickLoot IE 3.3 Patch.
 - Enhanced Blood Textures.
 - Imperious - Races of Skyrim.
 - Indigo.
 - Inquisitor Warlock.
 - Light Limit Fix.
+- Local Map Upgrade - Edge UI Patch.
+- Lore-Based Loading Screens.
 - Melana the War Maiden.
 - Morthal Barrow.
 - Northern Raven Rock.
 - Orpheus.
 - Practical Necromancy.
+- RaceMenu - Edge UI Patch (DIP).
 - Redbag's Rorikstead.
 - Savvy's Tel Mithryn.
 - Scoped Bows.
+- Sovngarde - Mist's Font Replacer Light.
 - Tem's Houses (all of them).
+- Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild.
 - Water For ENB.
 
 ---
@@ -198,6 +217,7 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Non-Horse Mount Animation Fix.
 - NPC Block Loop Fix.
 - OAR Gore MCO Animations Folder.
+- Oathvein UI.
 - Object Categorization Framework - Some KID Patches - I4 - OCF.
 - Object Impact Framework (OIF).
 - Obscure Animations Overhaul.
