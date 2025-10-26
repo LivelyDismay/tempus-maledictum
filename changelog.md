@@ -50,6 +50,7 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Edge UI - Map Markers.
 - Edge UI - QuickLoot IE 3.3 Patch.
 - Enhanced Blood Textures.
+- Enhanced Volumetric Lighting and Shadows (EVLaS).
 - Imperious - Races of Skyrim.
 - Indigo.
 - Inquisitor Warlock.
@@ -88,9 +89,11 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Community Shaders.
 - COTN Dawnstar Patch Collection.
 - COTN Morthal Patch Collection.
+- Depths of the Reach.
 - The Distinct Great Ivarstead Interiors (patch).
 - Distinct Interiors Patch Collection.
 - Diverse 4thUnknown Dragons.
+- The Dragonborn's Bestiary.
 - Dragons Fall Down - Immersive Airborne Death.
 - Dragons Use Thu'um.
 - Dynamic Impacts.
@@ -200,6 +203,7 @@ Version 8.1.0 (quickly turning into 9.0 but whatever)
 - Hail - Hailstorms of Skyrim.
 - Hammering Animation and Sound Fixes.
 - HD Soups and Stews.
+- High Poly Head Patch Installer.
 - Hot Key Skill.
 - Hammering Animation and Sound Fixes.
 - HFs - Glazed Pottery - remodels.
