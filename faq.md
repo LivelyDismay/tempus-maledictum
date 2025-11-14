@@ -29,6 +29,7 @@
   - [I went to Elysium Estate but the ghost isn't there. How do I get the house?](#i-went-to-elysium-estate-but-the-ghost-isnt-there-how-do-i-get-the-house)
   - [Sprint swimming and getting out of the water makes me swim on land!](#sprint-swimming-and-getting-out-of-the-water-makes-me-swim-on-land)
   - [Is the world unleveled?](#is-the-world-unleveled)
+  - [Are achievements enabled?](#are-achievements-enabled)
   - [Where is Inigo?](#where-is-inigo)
   - [How do I start the Goldenhills Plantation CC stuff?](#how-do-i-start-the-goldenhills-plantation-cc-stuff)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
@@ -299,6 +300,14 @@ Jump. Or stop the sprint-swimming prior to exiting the water.
 ### Is the world unleveled?
 
 No.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Are achievements enabled?
+
+Yes.
 
 [[Top]](#table-of-contents)
 
