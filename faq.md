@@ -32,6 +32,7 @@
   - [Are achievements enabled?](#are-achievements-enabled)
   - [Where is Inigo?](#where-is-inigo)
   - [How do I start the Goldenhills Plantation CC stuff?](#how-do-i-start-the-goldenhills-plantation-cc-stuff)
+  - [Any support for Linux?](#any-support-for-linux)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
 ---
@@ -324,6 +325,14 @@ Dead.
 ### How do I start the Goldenhills Plantation CC stuff?
 
 You need to be level 15, then speak with an innkeeper in either Whiterun or Rorikstead. They will have a line of dialogue about work in the area.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Any support for Linux?
+
+No. There is a linux-support channel in the [Wabbajack Discord](https://discord.gg/wabbajack). I'd recommend heading there. Omni really knows his stuff.
 
 [[Top]](#table-of-contents)
 
